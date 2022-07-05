@@ -6,9 +6,3 @@
         <img align="center" src="https://github-readme-stats-garyellow.vercel.app/api/top-langs/?username=garyellow&layout=compact&langs_count=6&theme=vue-dark&card_width=445" />
     </a>
 </p>
-
----
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
