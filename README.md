@@ -15,7 +15,7 @@
 
 ---
 
-- 🌱 I’m studying in **CSIE** in NTPU in Taiwan!!
+- 🌱 I’m studying in **CSIE** in [**NTPU**](https://www.ntpu.edu.tw) in Taiwan!!
 
 - 👨‍💻 All of my projects are available at [https://github.com/garyellow](https://github.com/garyellow?tab=repositories)
 
