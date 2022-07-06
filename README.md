@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm HGY</h1>
 
-![Metrics](/github-metrics.svg)
+[![state](/github-metrics.svg)](https://github.com/garyellow)
 
 - 🌱 I’m studying in **CSIE** in NTPU in Taiwan!!
 
-- 👨‍💻 All of my projects are available at [https://github.com/garyellow/](https://github.com/garyellow/)
+- 👨‍💻 All of my projects are available at [https://github.com/garyellow](https://github.com/garyellow?tab=repositories)
 
 - 📫 How to reach me **gary20011110@gmail.com**
 
