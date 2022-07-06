@@ -1,11 +1,9 @@
 name: Metrics
 on:
   schedule: 
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
   push:
-    branches: 
-      - master
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,13 +12,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
-          config_display: large
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          config_display: columns
           optimize: svg
           experimental_features: --optimize-svg
           config_timezone: Asia/Taipei
+          base: header, activity, community, repositories, metadata
           plugin_languages: yes
-          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          
