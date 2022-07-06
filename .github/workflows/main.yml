@@ -14,4 +14,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          config_display: large
+          config_timezone: Asia/Taipei
+          base: header
+          plugin_languages: yes
           token: ${{ secrets.METRICS_TOKEN }}
