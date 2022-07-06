@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm HGY</h1>
-<h3 align="center">Studying in CSIE in NTPU in Taiwan!!</h3>
 
-- 🌱 I’m currently learning **Design Pattern**
+![Metrics](/github-metrics.svg)
+
+- 🌱 I’m studying in **CSIE** in NTPU in Taiwan!!
 
 - 👨‍💻 All of my projects are available at [https://github.com/garyellow/](https://github.com/garyellow/)
 
