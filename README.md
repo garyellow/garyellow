@@ -27,7 +27,7 @@
     </a>
     <a href="https://instagram.com/gary_huang_1110" target="blank">
         <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg"
             alt="gary_huang_1110" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/gary20011110" target="blank">
