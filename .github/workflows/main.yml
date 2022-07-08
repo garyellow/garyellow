@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           config_display: large
-          commits_authoring: garyellow, guanying1110, gary20011110@gmail.com
+          commits_authoring: .user.login, 黃冠穎, guanying1110, garyellow, gary901110, gary20011110, gary20011110@gmail.com
           config_padding: 8 + 12%
           optimize: svg
           experimental_features: --optimize-svg
