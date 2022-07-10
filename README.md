@@ -18,22 +18,17 @@
 
 - 📫 How to reach me **gary20011110@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Others:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/gary.huang.1110/" target="blank">
-        <img align="center"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-            alt="gary.huang.1110" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/gary_huang_1110" target="blank">
-        <img align="center"
-            src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg"
-            alt="gary_huang_1110" height="30" width="40" />
-    </a>
     <a href="https://www.leetcode.com/gary20011110" target="blank">
         <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="gary20011110" height="30" width="40" />
+            src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"
+            alt="gary20011110" height="40" width="40" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/garyellow" target="blank">
+        <img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+            alt="garyellow" height="40" width="40" />
     </a>
 </p>
 
