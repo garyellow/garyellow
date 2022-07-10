@@ -14,9 +14,9 @@
 
 - 🌱 I’m major in [**CSIE**](http://www.csie.ntpu.edu.tw/) at [**NTPU**](https://www.ntpu.edu.tw) in Taiwan !!
 
-- 👨‍💻 All of my projects are available at [repositories page](https://github.com/garyellow?tab=repositories)
+- 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/garyellow?tab=repositories)
 
-- 📫 How to reach me **gary20011110@gmail.com**
+- 📫 You can reach me by email to **gary20011110@gmail.com**
 
 <h3 align="left">Others:</h3>
 <p align="left">
