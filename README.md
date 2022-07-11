@@ -1,13 +1,5 @@
 <h1 align="center">Hello, I'm HGY</h1>
 
-<p align="center">
-    <a href="https://github.com/garyellow">
-        <img align="center" src="https://github-readme-stats.garyellow.vercel.app/api?username=garyellow&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    </a>
-</p>
-
----
-
 [![state](/github-metrics.svg)](https://github.com/garyellow)
 
 ---
