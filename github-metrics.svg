@@ -1563,7 +1563,7 @@
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            345 Commits
+            351 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1646,7 +1646,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    206k added, 153k removed
+                    204k added, 153k removed
                   
                 </div>
             
@@ -1704,7 +1704,7 @@
         
           <small>
             
-              estimation from 6.42mb of code in 223 edited files across 309 commits
+              estimation from 6.43mb of code in 228 edited files across 315 commits
             
           </small>
         
@@ -1715,17 +1715,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="329.6487119437939" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="327.23661374300957" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="329.6487119437939" y="0" width="228.70179906970722" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="327.23661374300957" y="0" width="227.02834736774443" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="558.3505110135011" y="0" width="142.83685340873527" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="554.264961110754" y="0" width="141.7916907715712" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="701.1873644222364" y="0" width="96.04204664414681" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="696.0566518823252" y="0" width="102.07109339847014" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="797.2294110663832" y="0" width="62.1944981059584" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="798.1277452807955" y="0" width="61.73940991193675" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="859.4239091723416" y="0" width="60.5760908276584" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="859.8671551927322" y="0" width="60.132844807267894" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1742,7 +1742,7 @@
                     <small>
                        <div>1.01k lines</div>
                       
-                       <div>35.83%</div>
+                       <div>35.57%</div>
                     </small>
                   </div>
                 
@@ -1754,7 +1754,7 @@
                     <small>
                        <div>205 lines</div>
                       
-                       <div>6.76%</div>
+                       <div>6.71%</div>
                     </small>
                   </div>
                 
@@ -1770,7 +1770,7 @@
                     <small>
                        <div>870 lines</div>
                       
-                       <div>24.86%</div>
+                       <div>24.68%</div>
                     </small>
                   </div>
                 
@@ -1782,7 +1782,7 @@
                     <small>
                        <div>156 lines</div>
                       
-                       <div>6.58%</div>
+                       <div>6.54%</div>
                     </small>
                   </div>
                 
@@ -1798,7 +1798,7 @@
                     <small>
                        <div>504 lines</div>
                       
-                       <div>15.53%</div>
+                       <div>15.41%</div>
                     </small>
                   </div>
                 
@@ -1812,9 +1812,9 @@
                       C++
                     </div>
                     <small>
-                       <div>526 lines</div>
+                       <div>560 lines</div>
                       
-                       <div>10.44%</div>
+                       <div>11.09%</div>
                     </small>
                   </div>
                 
@@ -1826,7 +1826,7 @@
           <div class="row footnote">
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M9.585.52a2.678 2.678 0 00-3.17 0l-.928.68a1.178 1.178 0 01-.518.215L3.83 1.59a2.678 2.678 0 00-2.24 2.24l-.175 1.14a1.178 1.178 0 01-.215.518l-.68.928a2.678 2.678 0 000 3.17l.68.928c.113.153.186.33.215.518l.175 1.138a2.678 2.678 0 002.24 2.24l1.138.175c.187.029.365.102.518.215l.928.68a2.678 2.678 0 003.17 0l.928-.68a1.17 1.17 0 01.518-.215l1.138-.175a2.678 2.678 0 002.241-2.241l.175-1.138c.029-.187.102-.365.215-.518l.68-.928a2.678 2.678 0 000-3.17l-.68-.928a1.179 1.179 0 01-.215-.518L14.41 3.83a2.678 2.678 0 00-2.24-2.24l-1.138-.175a1.179 1.179 0 01-.518-.215L9.585.52zM7.303 1.728c.415-.305.98-.305 1.394 0l.928.68c.348.256.752.423 1.18.489l1.136.174c.51.078.909.478.987.987l.174 1.137c.066.427.233.831.489 1.18l.68.927c.305.415.305.98 0 1.394l-.68.928a2.678 2.678 0 00-.489 1.18l-.174 1.136a1.178 1.178 0 01-.987.987l-1.137.174a2.678 2.678 0 00-1.18.489l-.927.68c-.415.305-.98.305-1.394 0l-.928-.68a2.678 2.678 0 00-1.18-.489l-1.136-.174a1.178 1.178 0 01-.987-.987l-.174-1.137a2.678 2.678 0 00-.489-1.18l-.68-.927a1.178 1.178 0 010-1.394l.68-.928c.256-.348.423-.752.489-1.18l.174-1.136c.078-.51.478-.909.987-.987l1.137-.174a2.678 2.678 0 001.18-.489l.927-.68zM11.28 6.78a.75.75 0 00-1.06-1.06L7 8.94 5.78 7.72a.75.75 0 00-1.06 1.06l1.75 1.75a.75.75 0 001.06 0l3.75-3.75z"/></svg>
-              95 commits verified by GPG
+              96 commits verified by GPG
             </div>
           </div>
         
@@ -1920,7 +1920,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 11 Jul 2022, 12:35:41 (timezone Asia/Taipei) with lowlighter/metrics@3.25.0</span>
+          <span>Last updated 11 Jul 2022, 13:21:14 (timezone Asia/Taipei) with lowlighter/metrics@3.25.0</span>
         </footer>
       
 
