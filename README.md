@@ -62,4 +62,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
             alt="vuejs" width="40" height="40" />
     </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+            alt="arduino" width="40" height="40" />
+    </a>
+    <a href="https://markdown.tw/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
+            alt="markdown" width="40" height="40" />
+    </a>
 </p>
