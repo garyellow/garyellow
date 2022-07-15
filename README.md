@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/garyellow?tab=repositories)
 
-- 📫 You can reach me by email to **gary20011110@gmail.com**
+- 📫 You can reach me at **gary20011110@gmail.com**
 
 <h3 align="left">Others:</h3>
 <p align="left">
