@@ -10,20 +10,6 @@
 
 - 📫 You can reach me at **gary20011110@gmail.com**
 
-<h3 align="left">Others:</h3>
-<p align="left">
-    <a href="https://www.leetcode.com/gary20011110" target="blank">
-        <img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"
-            alt="gary20011110" height="40" width="40" />
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/garyellow" target="blank">
-        <img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
-            alt="garyellow" height="40" width="40" />
-    </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://cplusplus.com/reference/clibrary/" target="_blank" rel="noreferrer">
@@ -69,5 +55,19 @@
     <a href="https://markdown.tw/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
             alt="markdown" width="40" height="40" />
+    </a>
+</p>
+
+<h3 align="left">Others:</h3>
+<p align="left">
+    <a href="https://www.leetcode.com/gary20011110" target="blank">
+        <img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"
+            alt="gary20011110" height="40" width="40" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/garyellow" target="blank">
+        <img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+            alt="garyellow" height="40" width="40" />
     </a>
 </p>
