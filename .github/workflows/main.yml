@@ -14,7 +14,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-        
+
+          filename: dist/github-metrics.*
           repositories_affiliations: owner, collaborator
           config_display: large
           commits_authoring: ${{ secrets.USER_NAME }}
