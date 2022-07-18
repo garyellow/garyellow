@@ -15,7 +15,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           repositories_affiliations: owner, collaborator
-          repositories_skipped: LC-GFG-solution
           config_display: large
           commits_authoring: ${{ secrets.USER_NAME }}
           config_padding: 8 + 12%
@@ -27,6 +26,5 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
           plugin_languages_details: percentage, lines
-          plugin_languages_skipped: ""
           plugin_lines: yes
           plugin_traffic: yes
