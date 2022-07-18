@@ -28,3 +28,16 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_lines: yes
           plugin_traffic: yes
+          
+      - name: generate github-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: garyellow
+          output: github-snake.svg
+          
+      - name: push svg to the output branch
+        uses: crazy-max/ghaction-github-pages@latest
+        with:
+          target_branch: svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
