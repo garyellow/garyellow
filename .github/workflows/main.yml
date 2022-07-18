@@ -4,6 +4,7 @@ on:
     - cron: "0 */4 * * *"
   workflow_dispatch:
   push:
+    branches: master
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
