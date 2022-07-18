@@ -15,7 +15,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          filename: dist/github-metrics.*
           repositories_affiliations: owner, collaborator
           config_display: large
           commits_authoring: ${{ secrets.USER_NAME }}
@@ -30,16 +29,17 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_lines: yes
           plugin_traffic: yes
+          output_action: none
 
       - name: generate snake of github contribution
         uses: Platane/snk@master
         with:
           github_user_name: garyellow
-          svg_out_path: dist/github-snake.svg
+          svg_out_path: metrics_renders/github-snake.svg
       - name: push svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: data
-          build_dir: dist
+          build_dir: metrics_renders
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
