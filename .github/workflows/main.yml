@@ -53,8 +53,8 @@ jobs:
           
       - name: push svg to the output branch
         run: |
-          git add **/github-metrics.svg
+          git add /metrics_renders/github-metrics.svg
           git commit -m "update github-metrics.svg"
-          git add **/github-snake.svg
+          git add /data/github-snake.svg
           git commit -m "update github-snake.svg"
           git push
