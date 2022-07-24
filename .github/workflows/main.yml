@@ -36,6 +36,11 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           output_action: none
+      
+      - name: move file
+        run: |
+          set +e
+          sudo mv /metrics_renders/* ./dist/
         
       - name: generate snake of github contribution
         uses: Platane/snk/svg-only@v2
@@ -53,7 +58,7 @@ jobs:
           
       - name: push svg to the output branch
         run: |
-          git add /metrics_renders/github-metrics.svg
+          git add /data/github-metrics.svg
           git commit -m "update github-metrics.svg"
           git add /data/github-snake.svg
           git commit -m "update github-snake.svg"
