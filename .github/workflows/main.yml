@@ -60,6 +60,4 @@ jobs:
         run: |
           git add ./github-metrics.svg
           git commit -m "update github-metrics.svg"
-          git add ./github-snake.svg
-          git commit -m "update github-snake.svg"
           git push
