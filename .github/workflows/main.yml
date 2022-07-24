@@ -14,7 +14,7 @@ jobs:
       - name: checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          ref: data
       
       - name: generate github metric
         uses: lowlighter/metrics@latest
@@ -53,7 +53,6 @@ jobs:
           
       - name: push svg to the output branch
         run: |
-          git checkout data
           git add **/github-metrics.svg
           git commit -m "update github-metrics.svg"
           git add **/github-snake.svg
