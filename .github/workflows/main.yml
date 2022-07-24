@@ -36,17 +36,17 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           output_action: none
-      
-      - name: move file
-        run: |
-          set +e
-          sudo mv /metrics_renders/* ./dist/
         
       - name: generate snake of github contribution
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg?palette=github-dark
+            
+      - name: move file
+        run: |
+          set +e
+          sudo mv /metrics_renders/* ./dist/
           
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v5
@@ -58,8 +58,8 @@ jobs:
           
       - name: push svg to the output branch
         run: |
-          git add /data/github-metrics.svg
+          git add /dist/github-metrics.svg
           git commit -m "update github-metrics.svg"
-          git add /data/github-snake.svg
+          git add /dist/github-snake.svg
           git commit -m "update github-snake.svg"
           git push
