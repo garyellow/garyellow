@@ -1,4 +1,4 @@
-name: Metrics
+name: Insights
 on:
   schedule: 
     - cron: "0 */4 * * *"
@@ -11,7 +11,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - name: checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       
       - name: generate github metric
         uses: lowlighter/metrics@latest
