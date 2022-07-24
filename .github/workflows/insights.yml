@@ -41,7 +41,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: ./github-snake.svg?palette=github-dark
+          outputs: ./github-snake.svg
             
       - name: move file
         run: |
@@ -58,6 +58,6 @@ jobs:
           
       - name: push svg to the output branch
         run: |
-          git add *.svg
+          git add ./*.svg
           git commit -m "update data"
           git push
