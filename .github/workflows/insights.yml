@@ -23,7 +23,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          repositories_skipped: ${{ github.repository_owner }}
           repositories_affiliations: owner, collaborator
           config_display: large
           commits_authoring: ${{ secrets.USER_NAME }}
