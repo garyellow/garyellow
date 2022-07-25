@@ -4,7 +4,9 @@ on:
     - cron: "0 */4 * * *"
   workflow_dispatch:
   push:
-    branches: master
+    branches:
+      - master/.github/workflows/*
+      
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -21,6 +23,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          repositories_skipped: ${{ github.repository_owner }}
           repositories_affiliations: owner, collaborator
           config_display: large
           commits_authoring: ${{ secrets.USER_NAME }}
