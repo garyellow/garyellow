@@ -53,13 +53,21 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
             alt="vuejs" width="40" height="40" />
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-            alt="arduino" width="40" height="40" />
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+            alt="flask" width="40" height="40" />
+    </a>
+    <a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
+            alt="heroku" width="40" height="40" />
     </a>
     <a href="https://markdown.tw/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
             alt="markdown" width="40" height="40" />
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+            alt="arduino" width="40" height="40" />
     </a>
 </p>
 
