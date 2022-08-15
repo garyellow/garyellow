@@ -144,6 +144,10 @@
   .no-margin-top {
     margin-top: 0px;
   }
+  .margin-lr-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 /* User avatar */
   .avatar {
@@ -852,6 +856,47 @@
     fill: currentColor;
   }
 
+/* Diff stats */
+  .diff-handle {
+    color: #58a6ff;
+    max-width: 200px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  .large .diff-handle {
+    max-width: 400px;
+  }
+  .diff-box {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin-left: 1px;
+    background-color: rgba(110, 118, 129, 0.4);
+    border: 1px solid rgba(246, 240, 251, 0.1);
+  }
+  .diff-box:first-child {
+    margin-left: 9px;
+  }
+  .diff-box.added {
+    background-color: rgb(63, 185, 80);
+  }
+  .diff-box.deleted {
+    background-color: rgb(218, 54, 51);
+  }
+  .diff-stats {
+    margin-left: 4px;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-weight: bold;
+    font-size: 12px;
+    white-space: pre;
+  }
+  .added {
+    color: rgb(63, 185, 80);
+  }
+  .deleted {
+    color: rgb(218, 54, 51);
+  }
+
 /* People */
   .people {
     padding: 0 10px;
@@ -875,6 +920,17 @@
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
+  }
+  .project .items, .project-items {
+    padding-left: 11px;
+  }
+  .project .items .text, .project-items .text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 426px;
+  }
+  .large .project .items .text, .large .project-items .text {
+    width: 916px;
   }
 
 /* Star lists */
@@ -1672,7 +1728,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    747 views in last two weeks
+                    727 views in last two weeks
                   
                 </div>
             
@@ -1682,6 +1738,8 @@
     </div>
   </section>
 
+      
+        
       
         
 
@@ -1923,6 +1981,7 @@
 
       
         
+
       
         
       
@@ -1934,7 +1993,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 15 Aug 2022, 08:52:02 (timezone Asia/Taipei) with lowlighter/metrics@3.26.0</span>
+          <span>Last updated 15 Aug 2022, 16:12:48 (timezone Asia/Taipei) with lowlighter/metrics@3.27.0</span>
         </footer>
       
 
