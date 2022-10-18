@@ -1639,7 +1639,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1750,7 +1750,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    53.7k added, 53.2k removed
+                    27.5k added, 24.2k removed
                   
                 </div>
             
@@ -1776,7 +1776,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    45 views in last two weeks
+                    48 views in last two weeks
                   
                 </div>
             
@@ -1810,7 +1810,7 @@
         
           <small>
             
-              estimation from 6.73mb of code in 566 edited files across 997 commits
+              estimation from 6.74mb of code in 569 edited files across 1002 commits
             
           </small>
         
@@ -1821,17 +1821,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="482.3569264155188" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="483.6934482781365" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="482.3569264155188" y="0" width="166.23132600267292" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="483.6934482781365" y="0" width="165.72367075833228" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="648.5882524181917" y="0" width="140.2040411257989" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="649.4171190364688" y="0" width="139.7758708256106" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="788.7922935439906" y="0" width="55.94405409339314" height="8" fill="#AA6746"/>
+              <rect mask="url(#languages-bar)" x="789.1929898620795" y="0" width="55.77320607615643" height="8" fill="#AA6746"/>
             
-              <rect mask="url(#languages-bar)" x="844.7363476373838" y="0" width="38.12790282243658" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="844.9661959382358" y="0" width="38.0114636993846" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="882.8642504598204" y="0" width="37.135749540179695" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="882.9776596376204" y="0" width="37.02234036237954" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1846,9 +1846,9 @@
                       C++
                     </div>
                     <small>
-                       <div>4k lines</div>
+                       <div>4.04k lines</div>
                       
-                       <div>52.43%</div>
+                       <div>52.58%</div>
                     </small>
                   </div>
                 
@@ -1860,7 +1860,7 @@
                     <small>
                        <div>205 lines</div>
                       
-                       <div>4.14%</div>
+                       <div>4.13%</div>
                     </small>
                   </div>
                 
@@ -1876,7 +1876,7 @@
                     <small>
                        <div>859 lines</div>
                       
-                       <div>18.07%</div>
+                       <div>18.01%</div>
                     </small>
                   </div>
                 
@@ -1888,7 +1888,7 @@
                     <small>
                        <div>156 lines</div>
                       
-                       <div>4.04%</div>
+                       <div>4.02%</div>
                     </small>
                   </div>
                 
@@ -1904,7 +1904,7 @@
                     <small>
                        <div>870 lines</div>
                       
-                       <div>15.24%</div>
+                       <div>15.19%</div>
                     </small>
                   </div>
                 
@@ -1920,7 +1920,7 @@
                     <small>
                        <div>261 lines</div>
                       
-                       <div>6.08%</div>
+                       <div>6.06%</div>
                     </small>
                   </div>
                 
@@ -2032,7 +2032,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 18 Oct 2022, 09:05:49 (timezone Asia/Taipei) with lowlighter/metrics@3.28.0</span>
+          <span>Last updated 18 Oct 2022, 13:24:19 (timezone Asia/Taipei) with lowlighter/metrics@3.28.0</span>
         </footer>
       
 
