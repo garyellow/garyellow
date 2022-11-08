@@ -1810,7 +1810,7 @@
         
           <small>
             
-              estimation from 6.78mb of code in 628 edited files across 1116 commits
+              estimation from 6.78mb of code in 631 edited files across 1123 commits
             
           </small>
         
@@ -1821,17 +1821,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="512.8075888432677" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="513.3907869340185" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="512.8075888432677" y="0" width="154.66515644910095" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="513.3907869340185" y="0" width="154.44363850948474" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="667.4727452923687" y="0" width="130.44881778281183" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="667.8344254435033" y="0" width="130.26198350155516" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="797.9215630751805" y="0" width="52.051536174430126" height="8" fill="#AA6746"/>
+              <rect mask="url(#languages-bar)" x="798.0964089450584" y="0" width="51.976985775930956" height="8" fill="#AA6746"/>
             
-              <rect mask="url(#languages-bar)" x="849.9730992496108" y="0" width="35.475010618717256" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="850.0733947209894" y="0" width="35.42420181704183" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="885.448109868328" y="0" width="34.551890131672096" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="885.4975965380312" y="0" width="34.50240346196875" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1846,9 +1846,9 @@
                       C++
                     </div>
                     <small>
-                       <div>4.57k lines</div>
+                       <div>4.59k lines</div>
                       
-                       <div>55.74%</div>
+                       <div>55.8%</div>
                     </small>
                   </div>
                 
@@ -1860,7 +1860,7 @@
                     <small>
                        <div>205 lines</div>
                       
-                       <div>3.86%</div>
+                       <div>3.85%</div>
                     </small>
                   </div>
                 
@@ -1876,7 +1876,7 @@
                     <small>
                        <div>859 lines</div>
                       
-                       <div>16.81%</div>
+                       <div>16.79%</div>
                     </small>
                   </div>
                 
@@ -1888,7 +1888,7 @@
                     <small>
                        <div>156 lines</div>
                       
-                       <div>3.76%</div>
+                       <div>3.75%</div>
                     </small>
                   </div>
                 
@@ -1904,7 +1904,7 @@
                     <small>
                        <div>870 lines</div>
                       
-                       <div>14.18%</div>
+                       <div>14.16%</div>
                     </small>
                   </div>
                 
@@ -1920,7 +1920,7 @@
                     <small>
                        <div>261 lines</div>
                       
-                       <div>5.66%</div>
+                       <div>5.65%</div>
                     </small>
                   </div>
                 
@@ -2032,7 +2032,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 9 Nov 2022, 00:14:10 (timezone Asia/Taipei) with lowlighter/metrics@3.28.0</span>
+          <span>Last updated 9 Nov 2022, 04:13:40 (timezone Asia/Taipei) with lowlighter/metrics@3.28.0</span>
         </footer>
       
 
