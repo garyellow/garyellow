@@ -1639,7 +1639,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1810,7 +1810,7 @@
         
           <small>
             
-              estimation from 8.37mb of code in 1369 edited files across 1488 commits
+              estimation from 8.37mb of code in 1372 edited files across 1491 commits
             
           </small>
         
@@ -1821,21 +1821,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="597.5052283951973" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="597.4131735608573" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="597.5052283951973" y="0" width="266.55637794490514" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="597.4131735608573" y="0" width="266.515310851183" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="864.0616063401025" y="0" width="33.406264173491735" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="863.9284844120403" y="0" width="33.40111742670482" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="897.4678705135942" y="0" width="16.018938312431956" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="897.3296018387451" y="0" width="16.15821044416474" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="913.4868088260262" y="0" width="3.982965140662046" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="913.4878122829099" y="0" width="3.9823515038622643" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="917.4697739666882" y="0" width="1.4739071791208627" height="8" fill="#AA6746"/>
+              <rect mask="url(#languages-bar)" x="917.4701637867722" y="0" width="1.4736801011393514" height="8" fill="#AA6746"/>
             
-              <rect mask="url(#languages-bar)" x="918.943681145809" y="0" width="0.9783818626717857" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="918.9438438879116" y="0" width="0.9782311279568255" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="919.9220630084808" y="0" width="0.0779369915191752" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="919.9220750158684" y="0" width="0.07792498413162058" height="8" fill="#ededed"/>
             
           </svg>
         
@@ -1852,7 +1852,7 @@
                     <small>
                        <div>86.7k lines</div>
                       
-                       <div>64.95%</div>
+                       <div>64.94%</div>
                     </small>
                   </div>
                 
@@ -1934,9 +1934,9 @@
                       C++
                     </div>
                     <small>
-                       <div>4.99k lines</div>
+                       <div>5.02k lines</div>
                       
-                       <div>1.74%</div>
+                       <div>1.76%</div>
                     </small>
                   </div>
                 
@@ -2053,7 +2053,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 24 Nov 2022, 16:12:39 (timezone Asia/Taipei) with lowlighter/metrics@3.29.0</span>
+          <span>Last updated 24 Nov 2022, 20:18:35 (timezone Asia/Taipei) with lowlighter/metrics@3.29.0</span>
         </footer>
       
 
