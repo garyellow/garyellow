@@ -1642,7 +1642,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1813,7 +1813,7 @@
         
           <small>
             
-              estimation from 328kb of code in 292 edited files across 595 commits over last 52 days
+              estimation from 330kb of code in 293 edited files across 595 commits over last 53 days
             
           </small>
         
@@ -1824,21 +1824,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="646.2911429194216" height="8" fill="#3D6117"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="646.5230841915422" height="8" fill="#3D6117"/>
             
-              <rect mask="url(#languages-bar)" x="646.2911429194216" y="0" width="128.0265930393083" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="646.5230841915422" y="0" width="127.74236924712328" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="774.3177359587299" y="0" width="120.0719319915716" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="774.2654534386655" y="0" width="120.11502346351456" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="894.3896679503015" y="0" width="12.508537382838043" height="8" fill="#00B4AB"/>
+              <rect mask="url(#languages-bar)" x="894.3804769021801" y="0" width="12.513026452670935" height="8" fill="#00B4AB"/>
             
-              <rect mask="url(#languages-bar)" x="906.8982053331395" y="0" width="10.511516384509191" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="906.893503354851" y="0" width="10.515288762498354" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="917.4097217176487" y="0" width="1.0193998401511297" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="917.4087921173493" y="0" width="1.0197656828496018" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="918.4291215577998" y="0" width="0.9692654217830415" height="8" fill="#DA3434"/>
+              <rect mask="url(#languages-bar)" x="918.428557800199" y="0" width="0.9696132722176541" height="8" fill="#DA3434"/>
             
-              <rect mask="url(#languages-bar)" x="919.3983869795828" y="0" width="0.6016130204170602" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="919.3981710724166" y="0" width="0.6018289275833716" height="8" fill="#e34c26"/>
             
           </svg>
         
@@ -1855,7 +1855,7 @@
                     <small>
                        <div>4.26k lines</div>
                       
-                       <div>70.25%</div>
+                       <div>70.27%</div>
                     </small>
                   </div>
                 
@@ -1881,9 +1881,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.43k lines</div>
+                       <div>1.42k lines</div>
                       
-                       <div>13.92%</div>
+                       <div>13.89%</div>
                     </small>
                   </div>
                 
@@ -1911,7 +1911,7 @@
                     <small>
                        <div>771 lines</div>
                       
-                       <div>13.05%</div>
+                       <div>13.06%</div>
                     </small>
                   </div>
                 
@@ -2058,7 +2058,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 6 Jan 2023, 20:15:30 (timezone Asia/Taipei) with lowlighter/metrics@3.31.0</span>
+          <span>Last updated 7 Jan 2023, 00:14:59 (timezone Asia/Taipei) with lowlighter/metrics@3.31.0</span>
         </footer>
       
 
