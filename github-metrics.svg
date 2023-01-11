@@ -1642,7 +1642,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1813,7 +1813,7 @@
         
           <small>
             
-              estimation from 309kb of code in 251 edited files across 595 commits over last 54 days
+              estimation from 309kb of code in 246 edited files across 595 commits over last 54 days
             
           </small>
         
@@ -1824,11 +1824,11 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="678.1365340906384" height="8" fill="#3D6117"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="687.7647888889426" height="8" fill="#3D6117"/>
             
-              <rect mask="url(#languages-bar)" x="678.1365340906384" y="0" width="143.65040716263158" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="687.7647888889426" y="0" width="148.81993340711065" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="821.78694125327" y="0" width="98.21305874673007" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="836.5847222960532" y="0" width="83.41527770394676" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1845,7 +1845,7 @@
                     <small>
                        <div>4.26k lines</div>
                       
-                       <div>73.71%</div>
+                       <div>74.76%</div>
                     </small>
                   </div>
                 
@@ -1859,9 +1859,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.52k lines</div>
+                       <div>1.55k lines</div>
                       
-                       <div>15.61%</div>
+                       <div>16.18%</div>
                     </small>
                   </div>
                 
@@ -1875,9 +1875,9 @@
                       Python
                     </div>
                     <small>
-                       <div>539 lines</div>
+                       <div>447 lines</div>
                       
-                       <div>10.68%</div>
+                       <div>9.07%</div>
                     </small>
                   </div>
                 
@@ -1988,7 +1988,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 11 Jan 2023, 20:17:01 (timezone Asia/Taipei) with lowlighter/metrics@3.31.0</span>
+          <span>Last updated 12 Jan 2023, 00:18:40 (timezone Asia/Taipei) with lowlighter/metrics@3.31.0</span>
         </footer>
       
 
