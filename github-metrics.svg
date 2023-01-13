@@ -1813,7 +1813,7 @@
         
           <small>
             
-              estimation from 144kb of code in 222 edited files across 595 commits over last 55 days
+              estimation from 144kb of code in 221 edited files across 595 commits over last 54 days
             
           </small>
         
@@ -1824,9 +1824,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="657.0435137895812" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="653.8904279512094" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="657.0435137895812" y="0" width="262.9564862104188" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="653.8904279512094" y="0" width="266.10957204879054" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1841,9 +1841,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.60k lines</div>
+                       <div>1.57k lines</div>
                       
-                       <div>71.42%</div>
+                       <div>71.08%</div>
                     </small>
                   </div>
                 
@@ -1859,7 +1859,7 @@
                     <small>
                        <div>337 lines</div>
                       
-                       <div>28.58%</div>
+                       <div>28.92%</div>
                     </small>
                   </div>
                 
@@ -1974,7 +1974,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 14 Jan 2023, 00:14:02 (timezone Asia/Taipei) with lowlighter/metrics@3.31.0</span>
+          <span>Last updated 14 Jan 2023, 04:09:35 (timezone Asia/Taipei) with lowlighter/metrics@3.31.0</span>
         </footer>
       
 
