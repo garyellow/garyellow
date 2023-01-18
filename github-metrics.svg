@@ -1164,6 +1164,17 @@
   .sponsors .avatar {
     margin: 2px;
   }
+  .sponsorships.goal {
+    display: flex;
+    align-items: center;
+  }
+  .sponsorships.goal .bold {
+    font-weight: bold;
+  }
+  .sponsorships.goal img {
+    width: 38px;
+    margin-right: 8px;
+  }
 
 /* Stackoverflow */
   .stackoverflow {
@@ -1563,6 +1574,10 @@
     --color-calendar-halloween-graph-day-L2-bg: #ffc501;
     --color-calendar-halloween-graph-day-L3-bg: #fe9600;
     --color-calendar-halloween-graph-day-L4-bg: #03001c;
+    --color-calendar-winter-graph-day-L1-bg: #0a3069;
+    --color-calendar-winter-graph-day-L2-bg: #0969da;
+    --color-calendar-winter-graph-day-L3-bg: #54aeff;
+    --color-calendar-winter-graph-day-L4-bg: #b6e3ff;
     --color-calendar-graph-day-L4-border: rgba(27,31,35,0.06);
     --color-calendar-graph-day-L3-border: rgba(27,31,35,0.06);
     --color-calendar-graph-day-L2-border: rgba(27,31,35,0.06);
@@ -1642,7 +1657,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1753,7 +1768,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    131k added, 86.8k removed
+                    0 added, 0 removed
                   
                 </div>
             
@@ -1813,7 +1828,7 @@
         
           <small>
             
-              estimation from 151kb of code in 228 edited files across 595 commits over last 57 days
+              estimation from 154kb of code in 232 edited files across 595 commits over last 57 days
             
           </small>
         
@@ -1824,9 +1839,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="657.8699052584727" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="626.6825496173958" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="657.8699052584727" y="0" width="262.1300947415273" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="626.6825496173958" y="0" width="293.31745038260414" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1843,7 +1858,7 @@
                     <small>
                        <div>1.60k lines</div>
                       
-                       <div>71.51%</div>
+                       <div>68.12%</div>
                     </small>
                   </div>
                 
@@ -1857,9 +1872,9 @@
                       Python
                     </div>
                     <small>
-                       <div>333 lines</div>
+                       <div>404 lines</div>
                       
-                       <div>28.49%</div>
+                       <div>31.88%</div>
                     </small>
                   </div>
                 
@@ -1963,6 +1978,9 @@
 
       
         
+
+      
+        
       
         
       
@@ -1974,7 +1992,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 18 Jan 2023, 16:11:54 (timezone Asia/Taipei) with lowlighter/metrics@3.31.0</span>
+          <span>Last updated 18 Jan 2023, 20:16:09 (timezone Asia/Taipei) with lowlighter/metrics@3.32.0</span>
         </footer>
       
 
