@@ -1768,7 +1768,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    51.9k added, 27.8k removed
+                    630 added, 431 removed
                   
                 </div>
             
@@ -1816,7 +1816,7 @@
   <section>
     <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/></svg>
-      8 Languages
+      9 Languages
     </h2>
   </section>
   
@@ -1828,7 +1828,7 @@
         
           <small>
             
-              estimation from 186kb of code in 239 edited files across 544 commits over last 45 days
+              estimation from 191kb of code in 248 edited files across 544 commits over last 45 days
             
           </small>
         
@@ -1839,15 +1839,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="442.10598942077075" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="405.45676227634345" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="442.10598942077075" y="0" width="368.3838748891152" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="405.45676227634345" y="0" width="341.7715731398787" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="810.489864309886" y="0" width="80.32657620659066" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="747.2283354162221" y="0" width="141.43384033895205" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="890.8164405164766" y="0" width="25.813319315307027" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="888.6621757551742" y="0" width="26.52848477459079" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="916.6297598317836" y="0" width="3.3702401682163154" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="915.1906605297651" y="0" width="3.5754564574633463" height="8" fill="#3178c6"/>
+            
+              <rect mask="url(#languages-bar)" x="918.7661169872283" y="0" width="1.2338830127716647" height="8" fill="#563d7c"/>
             
           </svg>
         
@@ -1862,9 +1864,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.39k lines</div>
+                       <div>1.37k lines</div>
                       
-                       <div>48.05%</div>
+                       <div>44.07%</div>
                     </small>
                   </div>
                 
@@ -1874,9 +1876,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>17 lines</div>
+                       <div>20 lines</div>
                       
-                       <div>0.37%</div>
+                       <div>0.39%</div>
                     </small>
                   </div>
                 
@@ -1892,7 +1894,19 @@
                     <small>
                        <div>591 lines</div>
                       
-                       <div>40.04%</div>
+                       <div>37.15%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      CSS
+                    </div>
+                    <small>
+                       <div>9 lines</div>
+                      
+                       <div>0.13%</div>
                     </small>
                   </div>
                 
@@ -1906,9 +1920,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>248 lines</div>
+                       <div>439 lines</div>
                       
-                       <div>8.73%</div>
+                       <div>15.37%</div>
                     </small>
                   </div>
                 
@@ -1922,9 +1936,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>52 lines</div>
+                       <div>64 lines</div>
                       
-                       <div>2.81%</div>
+                       <div>2.88%</div>
                     </small>
                   </div>
                 
@@ -2034,7 +2048,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 3 Feb 2023, 20:16:26 (timezone Asia/Taipei) with lowlighter/metrics@3.32.0</span>
+          <span>Last updated 4 Feb 2023, 00:11:23 (timezone Asia/Taipei) with lowlighter/metrics@3.32.0</span>
         </footer>
       
 
