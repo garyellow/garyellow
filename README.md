@@ -53,6 +53,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
             alt="vuejs" width="40" height="40" />
     </a>
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+            alt="nuxtjs" width="40" height="40" />
+    </a>
     <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
             alt="flask" width="40" height="40" />
