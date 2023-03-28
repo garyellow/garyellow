@@ -359,15 +359,6 @@
     padding-left: 37px;
   }
 
-/* Chartist */
-/* purgecss ignore */
-  .chartist .ct-post {
-    fill: rgba(127, 127, 127, 0.8) !important;
-    color: rgba(127, 127, 127, 0.8) !important;
-    font-size: 9px;
-    text-anchor: middle;
-  }
-
 /* Footer */
   footer {
     margin-top: 8px;
@@ -1052,6 +1043,88 @@
     border-radius: 7px;
   }
 
+/* Steam */
+  .steam .games {
+    margin-left: 28px;
+  }
+  .steam .media {
+    display: flex;
+    margin-bottom: 4px;
+    width: 450px;
+  }
+  .steam .media img {
+    margin: 0 10px;
+    border-radius: 7px;
+  }
+  .steam .media &gt; img {
+    height: 32px;
+    width: 32px;
+  }
+  .steam .media .about {
+    flex-grow: 1;
+  }
+  .steam .media .name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 14px;
+    color: #58a6ff;
+  }
+  .steam .media .infos {
+    font-size: 12px;
+    color: #666666;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .steam .media .infos &gt; div {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 16px;
+  }
+  .steam .media .infos svg {
+    fill: currentColor;
+    height: 12px;
+    width: 12px;
+    margin: 0;
+    margin-right: 4px;
+  }
+  .steam .media .achievement img {
+    height: 22px;
+    width: 22px;
+    margin-right: 6px;
+  }
+  .steam .media .achievement .name {
+    display: flex;
+    justify-content: space-between;
+  }
+  .steam .media .achievement .name &gt; div:first-child {
+    max-width: 280px;
+  }
+  .steam .media .achievement .description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    width: 344px;
+    max-height: 38px;
+    font-size: 12px;
+    white-space: normal;
+    /* May not work in all browsers */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .steam .media .achievement .unlocked {
+    font-size: 12px;
+    color: #666666;
+    font-style: italic;
+    flex-shrink: 0;
+  }
+  .steam .media .achievement .ellipsis {
+    margin-left: 18px;
+  }
+
 /* Licenses */
   .licenses {
     display: flex;
@@ -1657,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1768,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    72.3k added, 33.3k removed
+                    50.9k added, 50.7k removed
                   
                 </div>
             
@@ -1828,7 +1901,7 @@
         
           <small>
             
-              estimation from 297kb of code in 448 edited files across 631 commits over last 52 days
+              estimation from 299kb of code in 445 edited files across 631 commits over last 53 days
             
           </small>
         
@@ -1839,17 +1912,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="414.35630030881384" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="412.97296388176426" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="414.35630030881384" y="0" width="243.58055316492008" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="412.97296388176426" y="0" width="246.34167262330234" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="657.9368534737339" y="0" width="242.38512293491286" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="659.3146365050667" y="0" width="241.07303536139256" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="900.3219764086467" y="0" width="9.043352064665282" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="900.3876718664592" y="0" width="9.013160660976327" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="909.365328473312" y="0" width="8.91138898732682" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="909.4008325274356" y="0" width="8.881638144893412" height="8" fill="#563d7c"/>
             
-              <rect mask="url(#languages-bar)" x="918.2767174606389" y="0" width="1.7232825393611098" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="918.2824706723289" y="0" width="1.7175293276710255" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1866,7 +1939,7 @@
                     <small>
                        <div>2.03k lines</div>
                       
-                       <div>45.04%</div>
+                       <div>44.89%</div>
                     </small>
                   </div>
                 
@@ -1892,9 +1965,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.54k lines</div>
+                       <div>1.55k lines</div>
                       
-                       <div>26.48%</div>
+                       <div>26.78%</div>
                     </small>
                   </div>
                 
@@ -1920,9 +1993,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>935 lines</div>
+                       <div>933 lines</div>
                       
-                       <div>26.35%</div>
+                       <div>26.2%</div>
                     </small>
                   </div>
                 
@@ -2042,13 +2115,18 @@
       
         
       
+        
+      
+        
+
+      
 
       
         <footer>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 28 Mar 2023, 12:10:53 (timezone Asia/Taipei) with lowlighter/metrics@3.32.0</span>
+          <span>Last updated 28 Mar 2023, 16:13:09 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
