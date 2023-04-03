@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    21.1k added, 14.8k removed
+                    18.4k added, 18.3k removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 300kb of code in 401 edited files across 628 commits over last 56 days
+              estimation from 297kb of code in 397 edited files across 625 commits over last 57 days
             
           </small>
         
@@ -1912,17 +1912,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="366.77188712253746" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="343.87073736832707" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="366.77188712253746" y="0" width="308.0428995208032" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="343.87073736832707" y="0" width="323.47556983871925" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="674.8147866433407" y="0" width="231.62698714535634" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="667.3463072070464" y="0" width="238.50939316391916" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="906.441773788697" y="0" width="9.831900813873888" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="905.8557003709656" y="0" width="10.256898569699857" height="8" fill="#563d7c"/>
             
-              <rect mask="url(#languages-bar)" x="916.2736746025708" y="0" width="1.9418878831672626" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="916.1125989406654" y="0" width="2.025828721061715" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="918.215562485738" y="0" width="1.7844375142618087" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="918.1384276617271" y="0" width="1.8615723382729275" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1937,9 +1937,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>1.61k lines</div>
+                       <div>1.47k lines</div>
                       
-                       <div>39.87%</div>
+                       <div>37.38%</div>
                     </small>
                   </div>
                 
@@ -1951,7 +1951,7 @@
                     <small>
                        <div>10 lines</div>
                       
-                       <div>0.21%</div>
+                       <div>0.22%</div>
                     </small>
                   </div>
                 
@@ -1965,9 +1965,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.69k lines</div>
+                       <div>1.70k lines</div>
                       
-                       <div>33.48%</div>
+                       <div>35.16%</div>
                     </small>
                   </div>
                 
@@ -1979,7 +1979,7 @@
                     <small>
                        <div>16 lines</div>
                       
-                       <div>0.19%</div>
+                       <div>0.2%</div>
                     </small>
                   </div>
                 
@@ -1993,9 +1993,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>798 lines</div>
+                       <div>785 lines</div>
                       
-                       <div>25.18%</div>
+                       <div>25.92%</div>
                     </small>
                   </div>
                 
@@ -2011,7 +2011,7 @@
                     <small>
                        <div>126 lines</div>
                       
-                       <div>1.07%</div>
+                       <div>1.11%</div>
                     </small>
                   </div>
                 
@@ -2126,7 +2126,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 3 Apr 2023, 08:40:40 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 3 Apr 2023, 12:09:52 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
