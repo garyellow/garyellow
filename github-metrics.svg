@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.85k added, 3 removed
+                    2.98k added, 2.44k removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 351kb of code in 440 edited files across 634 commits over last 55 days
+              estimation from 352kb of code in 444 edited files across 634 commits over last 55 days
             
           </small>
         
@@ -1912,13 +1912,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="428.0781454220266" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="432.62961876632806" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="428.0781454220266" y="0" width="284.74623374836625" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="432.62961876632806" y="0" width="281.9372045592519" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="712.8243791703928" y="0" width="205.77065419274953" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="714.56682332558" y="0" width="204.0400264660341" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="918.5950333631423" y="0" width="1.4049666368576734" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="918.6068497916141" y="0" width="1.393150208385913" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1933,9 +1933,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>2.91k lines</div>
+                       <div>2.95k lines</div>
                       
-                       <div>46.53%</div>
+                       <div>47.02%</div>
                     </small>
                   </div>
                 
@@ -1951,7 +1951,7 @@
                     <small>
                        <div>1.42k lines</div>
                       
-                       <div>30.95%</div>
+                       <div>30.65%</div>
                     </small>
                   </div>
                 
@@ -1967,7 +1967,7 @@
                     <small>
                        <div>1.58k lines</div>
                       
-                       <div>22.37%</div>
+                       <div>22.18%</div>
                     </small>
                   </div>
                 
@@ -2098,7 +2098,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 16 Apr 2023, 16:09:56 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 16 Apr 2023, 20:13:50 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
