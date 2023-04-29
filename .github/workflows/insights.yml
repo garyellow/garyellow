@@ -35,11 +35,18 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 1000
-          plugin_languages_recent_days: 60
+          plugin_languages_recent_days: 180
           plugin_languages_analysis_timeout: 60
           plugin_languages_details: percentage, lines
           plugin_lines: yes
           plugin_traffic: yes
+          plugin_leetcode: yes
+          plugin_leetcode_user: gary20011110
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
           output_action: none
         
       - name: generate snake of github contribution
