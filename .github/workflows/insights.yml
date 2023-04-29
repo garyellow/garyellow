@@ -43,10 +43,6 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: gary20011110
           plugin_leetcode_sections: solved, skills, recent
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: no
           output_action: none
         
       - name: generate snake of github contribution
