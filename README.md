@@ -54,16 +54,16 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40" />
     </a>
-</p>
-
-### Tool:
-<p align="left">
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
     </a>
+</p>
+
+### Tool:
+<p align="left">
     <a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />
     </a>
