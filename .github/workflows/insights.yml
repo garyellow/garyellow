@@ -26,7 +26,7 @@ jobs:
           repositories_affiliations: owner, collaborator
           config_display: large
           commits_authoring: ${{ secrets.USER_NAME }}
-          config_padding: 5 + 10%
+          config_padding: 8 + 12%
           optimize: svg
           experimental_features: --optimize-svg
           config_timezone: Asia/Taipei
