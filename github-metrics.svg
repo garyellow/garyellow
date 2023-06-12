@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 467kb of code in 523 edited files across 626 commits over last 46 days
+              estimation from 468kb of code in 521 edited files across 626 commits over last 45 days
             
           </small>
         
@@ -1912,13 +1912,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="651.3724425578124" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="652.2012083651001" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="651.3724425578124" y="0" width="167.69071299884007" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="652.2012083651001" y="0" width="167.2144479148734" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="819.0631555566524" y="0" width="100.55085268639404" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="819.4156562799735" y="0" width="100.19969995819089" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="919.6140082430464" y="0" width="0.385991756953528" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="919.6153562381645" y="0" width="0.3846437618356656" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1933,9 +1933,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>7.63k lines</div>
+                       <div>7.71k lines</div>
                       
-                       <div>70.8%</div>
+                       <div>70.89%</div>
                     </small>
                   </div>
                 
@@ -1949,9 +1949,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>1.88k lines</div>
+                       <div>1.89k lines</div>
                       
-                       <div>18.23%</div>
+                       <div>18.18%</div>
                     </small>
                   </div>
                 
@@ -1967,7 +1967,7 @@
                     <small>
                        <div>1.26k lines</div>
                       
-                       <div>10.93%</div>
+                       <div>10.89%</div>
                     </small>
                   </div>
                 
@@ -2212,7 +2212,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 13 Jun 2023, 00:10:15 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 13 Jun 2023, 04:08:47 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
