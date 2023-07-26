@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 656kb of code in 565 edited files across 635 commits over last 72 days
+              estimation from 703kb of code in 599 edited files across 647 commits over last 72 days
             
           </small>
         
@@ -1912,19 +1912,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="256.36656631223565" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="277.29519223960915" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="256.36656631223565" y="0" width="238.98898421593026" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="277.29519223960915" y="0" width="242.35643984989025" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="495.355550528166" y="0" width="227.7305396516019" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="519.6516320894995" y="0" width="201.43029101465694" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="723.0860901797679" y="0" width="112.7829733915737" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="721.0819231041563" y="0" width="99.75784181831057" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="835.8690635713416" y="0" width="83.48091815603084" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="820.839764922467" y="0" width="73.83983572895278" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="919.3499817273724" y="0" width="0.32661016654194874" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="894.6796006514197" y="0" width="25.03434114564894" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="919.6765918939144" y="0" width="0.3234081060856551" height="8" fill="#9400ff"/>
+              <rect mask="url(#languages-bar)" x="919.7139417970686" y="0" width="0.2860582029313885" height="8" fill="#9400ff"/>
             
           </svg>
         
@@ -1939,9 +1939,9 @@
                       C#
                     </div>
                     <small>
-                       <div>2.27k lines</div>
+                       <div>2.72k lines</div>
                       
-                       <div>27.87%</div>
+                       <div>30.14%</div>
                     </small>
                   </div>
                 
@@ -1953,7 +1953,7 @@
                     <small>
                        <div>1.03k lines</div>
                       
-                       <div>9.07%</div>
+                       <div>8.03%</div>
                     </small>
                   </div>
                 
@@ -1967,9 +1967,9 @@
                       HTML
                     </div>
                     <small>
-                       <div>1.70k lines</div>
+                       <div>1.99k lines</div>
                       
-                       <div>25.98%</div>
+                       <div>26.34%</div>
                     </small>
                   </div>
                 
@@ -1979,9 +1979,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>8 lines</div>
+                       <div>346 lines</div>
                       
-                       <div>0.04%</div>
+                       <div>2.72%</div>
                     </small>
                   </div>
                 
@@ -1997,7 +1997,7 @@
                     <small>
                        <div>3.05k lines</div>
                       
-                       <div>24.75%</div>
+                       <div>21.89%</div>
                     </small>
                   </div>
                 
@@ -2009,7 +2009,7 @@
                     <small>
                        <div>1 line</div>
                       
-                       <div>0.04%</div>
+                       <div>0.03%</div>
                     </small>
                   </div>
                 
@@ -2025,7 +2025,7 @@
                     <small>
                        <div>1.69k lines</div>
                       
-                       <div>12.26%</div>
+                       <div>10.84%</div>
                     </small>
                   </div>
                 
@@ -2254,7 +2254,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 26 Jul 2023, 16:11:30 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 26 Jul 2023, 20:14:47 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
