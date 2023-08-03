@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    106k added, 75.8k removed
+                    263 added, 62 removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.20mb of code in 641 edited files across 638 commits over last 74 days
+              estimation from 1.20mb of code in 642 edited files across 638 commits over last 75 days
             
           </small>
         
@@ -1912,19 +1912,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="394.2274305386718" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="394.201361809055" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="394.2274305386718" y="0" width="208.2143405914789" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="394.201361809055" y="0" width="208.20057218540987" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="602.4417711301508" y="0" width="146.01254534314918" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="602.4019339944648" y="0" width="146.00289010033666" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="748.4543164732999" y="0" width="79.10638256489054" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="748.4048240948015" y="0" width="79.10115156689727" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="827.5606990381905" y="0" width="62.808406352417165" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="827.5059756616987" y="0" width="62.8650891049441" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="890.3691053906076" y="0" width="29.269433125540957" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="890.3710647666428" y="0" width="29.267497651550368" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="919.6385385161485" y="0" width="0.3614614838515176" height="8" fill="#9400ff"/>
+              <rect mask="url(#languages-bar)" x="919.6385624181931" y="0" width="0.36143758180676006" height="8" fill="#9400ff"/>
             
           </svg>
         
@@ -1951,7 +1951,7 @@
                       C++
                     </div>
                     <small>
-                       <div>1.69k lines</div>
+                       <div>1.71k lines</div>
                       
                        <div>6.83%</div>
                     </small>
@@ -2116,9 +2116,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.02890792291221 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="74.94866310160428 329"/>
                     <text x="60" y="50" dominant-baseline="central">639</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2802</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2805</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -2126,9 +2126,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.91000000000001 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.7051282051282 329"/>
                     <text x="60" y="50" dominant-baseline="central">153</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/700</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/702</text>
                   </svg>
                   <span class="title">Easy</span>
                 </div>
@@ -2136,9 +2136,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="84.13189771197847 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="84.07531943510423 329"/>
                     <text x="60" y="50" dominant-baseline="central">380</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1486</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1487</text>
                   </svg>
                   <span class="title">Medium</span>
                 </div>
@@ -2198,16 +2198,16 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Permutations</div>
-                <div class="date">2 Aug 2023</div>
+                <div class="title">Letter Combinations of a Phone Number</div>
+                <div class="date">3 Aug 2023</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Combinations</div>
-                <div class="date">1 Aug 2023</div>
+                <div class="title">Permutations</div>
+                <div class="date">2 Aug 2023</div>
               </div>
             </div>
           
@@ -2254,7 +2254,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 3 Aug 2023, 12:10:03 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 3 Aug 2023, 16:10:45 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
