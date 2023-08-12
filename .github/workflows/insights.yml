@@ -25,7 +25,7 @@ jobs:
 
           repositories_affiliations: owner, collaborator
           config_display: large
-          commits_authoring: ${{ secrets.USER_NAME }}
+          commits_authoring: $USER_NAME
           config_padding: 8 + 12%
           optimize: svg
           experimental_features: --optimize-svg
