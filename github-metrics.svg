@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    0 added, 0 removed
+                    1.16k added, 996 removed
                   
                 </div>
             
@@ -1912,21 +1912,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="468.4722983215045" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="468.3804298476158" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="468.4722983215045" y="0" width="216.05978880761367" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="468.3804298476158" y="0" width="216.01741899591383" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="684.5320871291182" y="0" width="114.11368912975348" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="684.3978488435296" y="0" width="114.09131117804166" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="798.6457762588717" y="0" width="80.0234516076077" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="798.4891600215713" y="0" width="80.00775882833166" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="878.6692278664794" y="0" width="38.42788950455281" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="878.496918849903" y="0" width="38.60076778295743" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="917.0971173710321" y="0" width="2.6763400994774558" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="917.0976866328604" y="0" width="2.675815263150042" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="919.7734574705096" y="0" width="0.19810212535523855" height="8" fill="#9400ff"/>
+              <rect mask="url(#languages-bar)" x="919.7735018960103" y="0" width="0.19806327708182794" height="8" fill="#9400ff"/>
             
-              <rect mask="url(#languages-bar)" x="919.9715595958648" y="0" width="0.028440404135158012" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="919.9715651730921" y="0" width="0.028434826907787175" height="8" fill="#3178c6"/>
             
           </svg>
         
@@ -1943,7 +1943,7 @@
                     <small>
                        <div>14.3k lines</div>
                       
-                       <div>50.92%</div>
+                       <div>50.91%</div>
                     </small>
                   </div>
                 
@@ -1955,7 +1955,7 @@
                     <small>
                        <div>1.80k lines</div>
                       
-                       <div>4.18%</div>
+                       <div>4.2%</div>
                     </small>
                   </div>
                 
@@ -2130,8 +2130,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.39809254680324 329"/>
-                    <text x="60" y="50" dominant-baseline="central">666</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.51430589897564 329"/>
+                    <text x="60" y="50" dominant-baseline="central">667</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2831</text>
                   </svg>
                   <span class="title">All</span>
@@ -2140,8 +2140,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="74.24541607898449 329"/>
-                    <text x="60" y="50" dominant-baseline="central">160</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="74.70944992947814 329"/>
+                    <text x="60" y="50" dominant-baseline="central">161</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/709</text>
                   </svg>
                   <span class="title">Easy</span>
@@ -2183,13 +2183,13 @@
             
               <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x149</span></div>
             
-              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x142</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x143</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x120</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x102</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x91</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x92</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x91</span></div>
             
@@ -2212,16 +2212,16 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Repeated Substring Pattern</div>
-                <div class="date">21 Aug 2023</div>
+                <div class="title">Excel Sheet Column Title</div>
+                <div class="date">22 Aug 2023</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Maximize the Profit as the Salesman</div>
-                <div class="date">20 Aug 2023</div>
+                <div class="title">Repeated Substring Pattern</div>
+                <div class="date">21 Aug 2023</div>
               </div>
             </div>
           
@@ -2268,7 +2268,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 22 Aug 2023, 20:14:36 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 23 Aug 2023, 00:10:28 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
