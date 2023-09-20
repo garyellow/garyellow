@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    45.8k added, 29.5k removed
+                    0 added, 0 removed
                   
                 </div>
             
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    72 views in last two weeks
+                    73 views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.93mb of code in 640 edited files across 568 commits over last 59 days
+              estimation from 1.96mb of code in 656 edited files across 562 commits over last 59 days
             
           </small>
         
@@ -1912,19 +1912,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="582.5488058720925" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="593.8682005680764" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="582.5488058720925" y="0" width="163.33285111801774" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="593.8682005680764" y="0" width="158.13012945861465" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="745.8816569901103" y="0" width="71.37176128683303" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="751.9983300266911" y="0" width="69.09832146272534" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="817.2534182769433" y="0" width="69.17193801721048" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="821.0966514894164" y="0" width="66.96857024592855" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="886.4253562941537" y="0" width="33.156719670422724" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="888.065221735345" y="0" width="31.53016656913261" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="919.5820759645765" y="0" width="0.24668538399235582" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="919.5953883044776" y="0" width="0.23882759309744367" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="919.8287613485688" y="0" width="0.17123865143111983" height="8" fill="#9400ff"/>
+              <rect mask="url(#languages-bar)" x="919.8342158975751" y="0" width="0.1657841024250296" height="8" fill="#9400ff"/>
             
           </svg>
         
@@ -1939,9 +1939,9 @@
                       Python
                     </div>
                     <small>
-                       <div>21.8k lines</div>
+                       <div>22.9k lines</div>
                       
-                       <div>63.32%</div>
+                       <div>64.55%</div>
                     </small>
                   </div>
                 
@@ -1951,9 +1951,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.84k lines</div>
+                       <div>1.81k lines</div>
                       
-                       <div>3.6%</div>
+                       <div>3.43%</div>
                     </small>
                   </div>
                 
@@ -1969,7 +1969,7 @@
                     <small>
                        <div>5.67k lines</div>
                       
-                       <div>17.75%</div>
+                       <div>17.19%</div>
                     </small>
                   </div>
                 
@@ -1997,7 +1997,7 @@
                     <small>
                        <div>2.03k lines</div>
                       
-                       <div>7.76%</div>
+                       <div>7.51%</div>
                     </small>
                   </div>
                 
@@ -2025,7 +2025,7 @@
                     <small>
                        <div>2.60k lines</div>
                       
-                       <div>7.52%</div>
+                       <div>7.28%</div>
                     </small>
                   </div>
                 
@@ -2198,16 +2198,16 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find the Duplicate Number</div>
-                <div class="date">19 Sept 2023</div>
+                <div class="title">Minimum Operations to Reduce X to Zero</div>
+                <div class="date">20 Sept 2023</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">The K Weakest Rows in a Matrix</div>
-                <div class="date">18 Sept 2023</div>
+                <div class="title">Find the Duplicate Number</div>
+                <div class="date">19 Sept 2023</div>
               </div>
             </div>
           
@@ -2254,7 +2254,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 20 Sept 2023, 20:15:07 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 21 Sept 2023, 00:10:53 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
