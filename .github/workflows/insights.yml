@@ -46,10 +46,13 @@ jobs:
           output_action: none
         
       - name: generate snake of github contributions
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: ./github-snake.svg
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       - name: move file
         run: sudo mv /metrics_renders/* ./
