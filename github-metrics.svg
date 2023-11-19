@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1762,7 +1762,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
-            0 Pull requests reviewed
+            1 Pull request reviewed
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -1770,11 +1770,11 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-            11 Issues opened
+            12 Issues opened
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            4 issue comments
+            5 issue comments
           </div>
         </section>
       
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    125k added, 73.6k removed
+                    104k added, 45.2k removed
                   
                 </div>
             
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    67 views in last two weeks
+                    65 views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 933kb of code in 536 edited files across 382 commits over last 75 days
+              estimation from 930kb of code in 536 edited files across 366 commits over last 70 days
             
           </small>
         
@@ -1912,21 +1912,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="713.4598798889092" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="713.4410629841307" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="713.4598798889092" y="0" width="119.09681945620325" height="8" fill="#00B4AB"/>
+              <rect mask="url(#languages-bar)" x="713.4410629841307" y="0" width="126.30258018403889" height="8" fill="#00B4AB"/>
             
-              <rect mask="url(#languages-bar)" x="832.5566993451124" y="0" width="66.94919411629729" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="839.7436431681696" y="0" width="59.76279080807788" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="899.5058934614098" y="0" width="6.163276179021968" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="899.5064339762474" y="0" width="6.163113627792034" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="905.6691696404316" y="0" width="3.9357614025093035" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="905.6695476040394" y="0" width="3.935657600109716" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="909.604931042941" y="0" width="3.702818680782489" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="909.6052052041491" y="0" width="3.7027210220514353" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="913.3077497237235" y="0" width="3.6348770536121684" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="913.3079262262005" y="0" width="3.634781186784436" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="916.9426267773357" y="0" width="3.057373222664441" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="916.9427074129849" y="0" width="3.0572925870149463" height="8" fill="#F05138"/>
             
           </svg>
         
@@ -1969,9 +1969,9 @@
                       Dart
                     </div>
                     <small>
-                       <div>1.39k lines</div>
+                       <div>1.54k lines</div>
                       
-                       <div>12.95%</div>
+                       <div>13.73%</div>
                     </small>
                   </div>
                 
@@ -1997,9 +1997,9 @@
                       C++
                     </div>
                     <small>
-                       <div>1.20k lines</div>
+                       <div>1.04k lines</div>
                       
-                       <div>7.28%</div>
+                       <div>6.5%</div>
                     </small>
                   </div>
                 
@@ -2268,7 +2268,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 19 Nov 2023, 20:14:24 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 20 Nov 2023, 00:10:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
