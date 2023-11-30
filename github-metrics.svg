@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    67k added, 50.3k removed
+                    143k added, 84.1k removed
                   
                 </div>
             
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    319 views in last two weeks
+                    321 views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 975kb of code in 576 edited files across 343 commits over last 72 days
+              estimation from 975kb of code in 575 edited files across 341 commits over last 72 days
             
           </small>
         
@@ -1912,21 +1912,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="631.4164864672194" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="629.8031798401547" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="631.4164864672194" y="0" width="227.50668916189437" height="8" fill="#00B4AB"/>
+              <rect mask="url(#languages-bar)" x="629.8031798401547" y="0" width="229.63366421115506" height="8" fill="#00B4AB"/>
             
-              <rect mask="url(#languages-bar)" x="858.9231756291139" y="0" width="42.61255138654564" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="859.4368440513099" y="0" width="42.14606027854414" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="901.5357270156595" y="0" width="5.5528360620678185" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="901.5829043298539" y="0" width="5.538648236108346" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="907.0885630777273" y="0" width="3.545944918375591" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="907.1215525659622" y="0" width="3.536884818491235" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="910.6345079961029" y="0" width="3.336073949100587" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="910.6584373844536" y="0" width="3.3275500820084" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="913.9705819452034" y="0" width="3.274861583062044" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="913.9859874664619" y="0" width="3.2664941172009065" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="917.2454435282655" y="0" width="2.7545564717344297" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="917.2524815836629" y="0" width="2.747518416337211" height="8" fill="#F05138"/>
             
           </svg>
         
@@ -1943,7 +1943,7 @@
                     <small>
                        <div>9.94k lines</div>
                       
-                       <div>68.63%</div>
+                       <div>68.46%</div>
                     </small>
                   </div>
                 
@@ -1955,7 +1955,7 @@
                     <small>
                        <div>51 lines</div>
                       
-                       <div>0.39%</div>
+                       <div>0.38%</div>
                     </small>
                   </div>
                 
@@ -1969,9 +1969,9 @@
                       Dart
                     </div>
                     <small>
-                       <div>3.31k lines</div>
+                       <div>3.35k lines</div>
                       
-                       <div>24.73%</div>
+                       <div>24.96%</div>
                     </small>
                   </div>
                 
@@ -1997,9 +1997,9 @@
                       C++
                     </div>
                     <small>
-                       <div>815 lines</div>
+                       <div>806 lines</div>
                       
-                       <div>4.63%</div>
+                       <div>4.58%</div>
                     </small>
                   </div>
                 
@@ -2130,8 +2130,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="83.86711864406779 329"/>
-                    <text x="60" y="50" dominant-baseline="central">752</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="83.9786440677966 329"/>
+                    <text x="60" y="50" dominant-baseline="central">753</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2950</text>
                   </svg>
                   <span class="title">All</span>
@@ -2160,8 +2160,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="66.51080246913581 329"/>
-                    <text x="60" y="50" dominant-baseline="central">131</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.01851851851852 329"/>
+                    <text x="60" y="50" dominant-baseline="central">132</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/648</text>
                   </svg>
                   <span class="title">Hard</span>
@@ -2181,7 +2181,7 @@
             
               <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x402</span></div>
             
-              <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x164</span></div>
+              <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x165</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x161</span></div>
             
@@ -2212,16 +2212,16 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Number of 1 Bits</div>
-                <div class="date">29 Nov 2023</div>
+                <div class="title">Minimum One Bit Operations to Make Integers Zero</div>
+                <div class="date">30 Nov 2023</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Number of Ways to Divide a Long Corridor</div>
-                <div class="date">28 Nov 2023</div>
+                <div class="title">Number of 1 Bits</div>
+                <div class="date">29 Nov 2023</div>
               </div>
             </div>
           
@@ -2268,7 +2268,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 30 Nov 2023, 12:10:49 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 30 Nov 2023, 16:11:46 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
