@@ -1774,7 +1774,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            6 issue comments
+            7 issue comments
           </div>
         </section>
       
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    63.5k added, 27.5k removed
+                    175k added, 110k removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 810kb of code in 594 edited files across 355 commits over last 73 days
+              estimation from 797kb of code in 586 edited files across 351 commits over last 73 days
             
           </small>
         
@@ -1912,21 +1912,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="642.1160346751901" height="8" fill="#00B4AB"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="675.4228487271198" height="8" fill="#00B4AB"/>
             
-              <rect mask="url(#languages-bar)" x="642.1160346751901" y="0" width="177.09789300615657" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="675.4228487271198" y="0" width="138.56326530612245" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="819.2139276813467" y="0" width="69.70193257779717" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="813.9861140332422" y="0" width="73.31739953713445" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="888.9158602591439" y="0" width="9.34806002152198" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="887.3035135703767" y="0" width="9.832947612034504" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="898.2639202806658" y="0" width="5.969509194845926" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="897.1364611824112" y="0" width="6.279150010519672" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="904.2334294755118" y="0" width="5.616196690095489" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="903.4156111929308" y="0" width="5.907511045655376" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="909.8496261656072" y="0" width="5.513147209543278" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="909.3231222385862" y="0" width="5.799116347569956" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="915.3627733751506" y="0" width="4.637226624849486" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="915.1222385861561" y="0" width="4.8777614138438885" height="8" fill="#F05138"/>
             
           </svg>
         
@@ -1943,7 +1943,7 @@
                     <small>
                        <div>5.87k lines</div>
                       
-                       <div>69.8%</div>
+                       <div>73.42%</div>
                     </small>
                   </div>
                 
@@ -1955,7 +1955,7 @@
                     <small>
                        <div>51 lines</div>
                       
-                       <div>0.65%</div>
+                       <div>0.68%</div>
                     </small>
                   </div>
                 
@@ -1969,9 +1969,9 @@
                       Python
                     </div>
                     <small>
-                       <div>1.47k lines</div>
+                       <div>1.18k lines</div>
                       
-                       <div>19.25%</div>
+                       <div>15.06%</div>
                     </small>
                   </div>
                 
@@ -1983,7 +1983,7 @@
                     <small>
                        <div>52 lines</div>
                       
-                       <div>0.61%</div>
+                       <div>0.64%</div>
                     </small>
                   </div>
                 
@@ -1999,7 +1999,7 @@
                     <small>
                        <div>780 lines</div>
                       
-                       <div>7.58%</div>
+                       <div>7.97%</div>
                     </small>
                   </div>
                 
@@ -2011,7 +2011,7 @@
                     <small>
                        <div>42 lines</div>
                       
-                       <div>0.6%</div>
+                       <div>0.63%</div>
                     </small>
                   </div>
                 
@@ -2027,7 +2027,7 @@
                     <small>
                        <div>64 lines</div>
                       
-                       <div>1.02%</div>
+                       <div>1.07%</div>
                     </small>
                   </div>
                 
@@ -2039,7 +2039,7 @@
                     <small>
                        <div>42 lines</div>
                       
-                       <div>0.5%</div>
+                       <div>0.53%</div>
                     </small>
                   </div>
                 
@@ -2130,9 +2130,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="84.09016949152543 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="83.97630331753555 329"/>
                     <text x="60" y="50" dominant-baseline="central">754</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2950</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2954</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -2140,9 +2140,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.41176470588235 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.30841121495327 329"/>
                     <text x="60" y="50" dominant-baseline="central">176</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/748</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/749</text>
                   </svg>
                   <span class="title">Easy</span>
                 </div>
@@ -2150,9 +2150,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="94.42342342342343 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="94.30205655526993 329"/>
                     <text x="60" y="50" dominant-baseline="central">446</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1554</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1556</text>
                   </svg>
                   <span class="title">Medium</span>
                 </div>
@@ -2160,9 +2160,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.01851851851852 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="66.91525423728814 329"/>
                     <text x="60" y="50" dominant-baseline="central">132</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/648</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/649</text>
                   </svg>
                   <span class="title">Hard</span>
                 </div>
@@ -2268,7 +2268,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 3 Dec 2023, 08:41:47 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 3 Dec 2023, 12:10:22 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
