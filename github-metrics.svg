@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.50mb of code in 1162 edited files across 407 commits over last 10 days
+              estimation from 1.50mb of code in 1159 edited files across 406 commits over last 10 days
             
           </small>
         
@@ -1912,9 +1912,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="897.3020502359719" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="897.2646502314726" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="897.3020502359719" y="0" width="22.697949764028106" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="897.2646502314726" y="0" width="22.735349768527367" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -2184,7 +2184,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 1 Mar 2024, 08:41:43 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 1 Mar 2024, 12:11:52 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
