@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    1.20k views in last two weeks
+                    1.06k views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.61mb of code in 1131 edited files across 392 commits over last 13 days
+              estimation from 1.55mb of code in 1081 edited files across 384 commits over last 10 days
             
           </small>
         
@@ -1912,9 +1912,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="898.2202214566801" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="897.5184771864937" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="898.2202214566801" y="0" width="21.779778543319875" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="897.5184771864937" y="0" width="22.48152281350636" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1929,9 +1929,9 @@
                       Python
                     </div>
                     <small>
-                       <div>38.4k lines</div>
+                       <div>36.7k lines</div>
                       
-                       <div>97.63%</div>
+                       <div>97.56%</div>
                     </small>
                   </div>
                 
@@ -1945,9 +1945,9 @@
                       Dockerfile
                     </div>
                     <small>
-                       <div>469 lines</div>
+                       <div>455 lines</div>
                       
-                       <div>2.37%</div>
+                       <div>2.44%</div>
                     </small>
                   </div>
                 
@@ -2042,7 +2042,7 @@
         <section>
           <div class="field error">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
-            Unexpected error
+            API error: 403
           </div>
         </section>
       </div>
@@ -2087,7 +2087,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 6 Mar 2024, 20:15:58 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 7 Mar 2024, 00:10:32 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
