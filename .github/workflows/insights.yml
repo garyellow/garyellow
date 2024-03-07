@@ -41,7 +41,7 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           plugin_leetcode: yes
-          plugin_leetcode_user: gary20011110
+          plugin_leetcode_user: garyellow
           plugin_leetcode_sections: solved, skills, recent
           output_action: none
         
