@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.45mb of code in 1054 edited files across 361 commits over last 11 days
+              estimation from 1.40mb of code in 1043 edited files across 354 commits over last 11 days
             
           </small>
         
@@ -1912,9 +1912,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="897.0145244486503" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="896.638641115669" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="897.0145244486503" y="0" width="22.98547555134971" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="896.638641115669" y="0" width="23.36135888433105" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1929,9 +1929,9 @@
                       Python
                     </div>
                     <small>
-                       <div>35.9k lines</div>
+                       <div>35.7k lines</div>
                       
-                       <div>97.5%</div>
+                       <div>97.46%</div>
                     </small>
                   </div>
                 
@@ -1945,9 +1945,9 @@
                       Dockerfile
                     </div>
                     <small>
-                       <div>455 lines</div>
+                       <div>458 lines</div>
                       
-                       <div>2.5%</div>
+                       <div>2.54%</div>
                     </small>
                   </div>
                 
@@ -2087,7 +2087,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 8 Mar 2024, 08:37:29 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 8 Mar 2024, 12:10:46 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
