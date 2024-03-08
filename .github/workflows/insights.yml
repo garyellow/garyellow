@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
       - name: checkout repo
         uses: actions/checkout@v4
@@ -23,9 +24,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          repositories_affiliations: owner, collaborator
+          repositories_affiliations: owner, collaborator, organization_member
           config_display: large
-          commits_authoring: $USER_NAME
+          commits_authoring: ${{ vars.USER_NAME }}
           config_padding: 8 + 12%
           optimize: svg
           experimental_features: --optimize-svg
