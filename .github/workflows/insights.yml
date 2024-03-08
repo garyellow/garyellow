@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: data
       
@@ -35,10 +35,11 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 1000
-          plugin_languages_recent_days: 180
+          plugin_languages_recent_days: 365
           plugin_languages_analysis_timeout: 60
           plugin_languages_details: percentage, lines
           plugin_lines: yes
+          plugin_lines_history_limit: 0
           plugin_traffic: yes
           plugin_leetcode: yes
           plugin_leetcode_user: garyellow
