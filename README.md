@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm garyellow</h1>
 
 <p align="center">
-    <a href="https://github.com/garyellow/" rel="noreferrer noopener">
+    <a href="https://github.com/garyellow" rel="noreferrer noopener">
         <img src="../data/github-metrics.svg" />
         <img src="../data/github-snake.svg" />
     </a>
@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m major in [**CSIE**](http://www.csie.ntpu.edu.tw/) at [**NTPU**](https://www.ntpu.edu.tw) in Taiwan !!
+- 🌱 I’m major in [**CSIE**](http://www.csie.ntpu.edu.tw) at [**NTPU**](https://www.ntpu.edu.tw) in Taiwan !!
 
 - 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/garyellow?tab=repositories)
 
