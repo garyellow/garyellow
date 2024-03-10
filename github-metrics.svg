@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="371" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="423" class="large">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.55k added, 1.11k removed
+                    110k added, 76.8k removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.30mb of code in 947 edited files across 343 commits over last 12 days
+              estimation from 1.29mb of code in 936 edited files across 343 commits over last 12 days
             
           </small>
         
@@ -1912,9 +1912,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="898.7851821566642" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="898.6754769023593" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="898.7851821566642" y="0" width="21.214817843335794" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="898.6754769023593" y="0" width="21.324523097640764" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1929,9 +1929,9 @@
                       Python
                     </div>
                     <small>
-                       <div>31k lines</div>
+                       <div>30.4k lines</div>
                       
-                       <div>97.69%</div>
+                       <div>97.68%</div>
                     </small>
                   </div>
                 
@@ -1945,9 +1945,9 @@
                       Dockerfile
                     </div>
                     <small>
-                       <div>392 lines</div>
+                       <div>389 lines</div>
                       
-                       <div>2.31%</div>
+                       <div>2.32%</div>
                     </small>
                   </div>
                 
@@ -2032,6 +2032,23 @@
 
       
         
+  <section>
+    <h2 class="field">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 3.5v3h3v-3h-3zM2 2a1 1 0 00-1 1v4a1 1 0 001 1h4a1 1 0 001-1V3a1 1 0 00-1-1H2zm4.655 8.595a.75.75 0 010 1.06L4.03 14.28a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 111.06-1.06l.97.97 2.095-2.095a.75.75 0 011.06 0zM9.75 2.5a.75.75 0 000 1.5h5.5a.75.75 0 000-1.5h-5.5zm0 5a.75.75 0 000 1.5h5.5a.75.75 0 000-1.5h-5.5zm0 5a.75.75 0 000 1.5h5.5a.75.75 0 000-1.5h-5.5z"/></svg>
+      LeetCode statistics 
+    </h2>
+    
+      <div class="row">
+        <section>
+          <div class="field error">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
+            API error: 403
+          </div>
+        </section>
+      </div>
+    
+  </section>
+
 
       
         
@@ -2070,7 +2087,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 10 Mar 2024, 20:13:21 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 10 Mar 2024, 21:29:59 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
