@@ -43,7 +43,7 @@ jobs:
           plugin_lines_history_limit: 0
           plugin_traffic: yes
           plugin_leetcode: yes
-          plugin_leetcode_user: gary-_-
+          plugin_leetcode_user: garyellow
           plugin_leetcode_sections: solved, skills, recent
           output_action: none
         
