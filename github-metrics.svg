@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    18.3k added, 11.9k removed
+                    0 added, 0 removed
                   
                 </div>
             
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    1.30k views in last two weeks
+                    1.31k views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 542kb of code in 361 edited files across 203 commits over last 15 days
+              estimation from 609kb of code in 389 edited files across 218 commits over last 13 days
             
           </small>
         
@@ -1912,19 +1912,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="368.1168467731519" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="392.56482921736165" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="368.1168467731519" y="0" width="285.61114220519227" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="392.56482921736165" y="0" width="282.7082312330869" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="653.7279889783441" y="0" width="126.50148534033669" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="675.2730604504486" y="0" width="124.3139928831689" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="780.2294743186809" y="0" width="108.66749903129977" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="799.5870533336175" y="0" width="89.62604674948328" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="888.8969733499806" y="0" width="23.854565807034916" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="889.2131000831008" y="0" width="23.612111397583686" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="912.7515391570155" y="0" width="6.139406724932191" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="912.8252114806845" y="0" width="6.077006669365664" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="918.8909458819478" y="0" width="1.1090541180522668" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="918.9022181500501" y="0" width="1.0977818499499263" height="8" fill="#563d7c"/>
             
           </svg>
         
@@ -1939,9 +1939,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>905 lines</div>
+                       <div>993 lines</div>
                       
-                       <div>40.01%</div>
+                       <div>42.67%</div>
                     </small>
                   </div>
                 
@@ -1953,7 +1953,7 @@
                     <small>
                        <div>133 lines</div>
                       
-                       <div>2.59%</div>
+                       <div>2.57%</div>
                     </small>
                   </div>
                 
@@ -1969,7 +1969,7 @@
                     <small>
                        <div>905 lines</div>
                       
-                       <div>31.04%</div>
+                       <div>30.73%</div>
                     </small>
                   </div>
                 
@@ -1981,7 +1981,7 @@
                     <small>
                        <div>40 lines</div>
                       
-                       <div>0.67%</div>
+                       <div>0.66%</div>
                     </small>
                   </div>
                 
@@ -1995,9 +1995,9 @@
                       Dockerfile
                     </div>
                     <small>
-                       <div>290 lines</div>
+                       <div>288 lines</div>
                       
-                       <div>13.75%</div>
+                       <div>13.51%</div>
                     </small>
                   </div>
                 
@@ -2023,9 +2023,9 @@
                       Python
                     </div>
                     <small>
-                       <div>308 lines</div>
+                       <div>266 lines</div>
                       
-                       <div>11.81%</div>
+                       <div>9.74%</div>
                     </small>
                   </div>
                 
@@ -2116,8 +2116,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.6272227610734 329"/>
-                    <text x="60" y="50" dominant-baseline="central">805</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.73359198189459 329"/>
+                    <text x="60" y="50" dominant-baseline="central">806</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3093</text>
                   </svg>
                   <span class="title">All</span>
@@ -2146,8 +2146,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="65.12954876273653 329"/>
-                    <text x="60" y="50" dominant-baseline="central">136</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="65.60844250363901 329"/>
+                    <text x="60" y="50" dominant-baseline="central">137</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/687</text>
                   </svg>
                   <span class="title">Hard</span>
@@ -2165,13 +2165,13 @@
           </h2>
           <div class="topics">
             
-              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x431</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x432</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x177</span></div>
             
               <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x166</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x161</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x162</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x123</span></div>
             
@@ -2198,7 +2198,7 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find All Duplicates in an Array</div>
+                <div class="title">First Missing Positive</div>
                 <div class="date">26 Mar 2024</div>
               </div>
             </div>
@@ -2206,8 +2206,8 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find the Duplicate Number</div>
-                <div class="date">24 Mar 2024</div>
+                <div class="title">Find All Duplicates in an Array</div>
+                <div class="date">26 Mar 2024</div>
               </div>
             </div>
           
@@ -2254,7 +2254,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 26 Mar 2024, 12:10:22 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 26 Mar 2024, 20:15:34 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
