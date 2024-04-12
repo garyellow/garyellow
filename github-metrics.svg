@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    0 added, 0 removed
+                    1.55k added, 1.11k removed
                   
                 </div>
             
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    360 views in last two weeks
+                    357 views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.66mb of code in 1866 edited files across 305 commits over last 20 days
+              estimation from 1.66mb of code in 1868 edited files across 309 commits over last 20 days
             
           </small>
         
@@ -1912,15 +1912,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="479.6042723463247" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="479.35868209444243" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="479.6042723463247" y="0" width="350.7457701880967" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="479.35868209444243" y="0" width="350.5661643192296" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="830.3500425344213" y="0" width="87.11175525378871" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="829.9248464136721" y="0" width="87.06714806584598" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="917.4617977882101" y="0" width="2.2294338195910393" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="916.9919944795181" y="0" width="2.69939523885806" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="919.6912316078011" y="0" width="0.30876839219887203" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="919.6913897183762" y="0" width="0.30861028162399656" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1937,7 +1937,7 @@
                     <small>
                        <div>15.5k lines</div>
                       
-                       <div>52.13%</div>
+                       <div>52.1%</div>
                     </small>
                   </div>
                 
@@ -1965,7 +1965,7 @@
                     <small>
                        <div>14k lines</div>
                       
-                       <div>38.12%</div>
+                       <div>38.11%</div>
                     </small>
                   </div>
                 
@@ -1981,7 +1981,7 @@
                     <small>
                        <div>1.50k lines</div>
                       
-                       <div>9.47%</div>
+                       <div>9.46%</div>
                     </small>
                   </div>
                 
@@ -1995,9 +1995,9 @@
                       C++
                     </div>
                     <small>
-                       <div>113 lines</div>
+                       <div>130 lines</div>
                       
-                       <div>0.24%</div>
+                       <div>0.29%</div>
                     </small>
                   </div>
                 
@@ -2170,16 +2170,16 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Remove K Digits</div>
-                <div class="date">11 Apr 2024</div>
+                <div class="title">Trapping Rain Water</div>
+                <div class="date">12 Apr 2024</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Reveal Cards In Increasing Order</div>
-                <div class="date">10 Apr 2024</div>
+                <div class="title">Remove K Digits</div>
+                <div class="date">11 Apr 2024</div>
               </div>
             </div>
           
@@ -2226,7 +2226,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 12 Apr 2024, 20:15:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 13 Apr 2024, 00:10:16 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
