@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    913 views in last two weeks
+                    935 views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.62mb of code in 2175 edited files across 626 commits over last 16 days
+              estimation from 1.62mb of code in 2176 edited files across 628 commits over last 16 days
             
           </small>
         
@@ -1912,17 +1912,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="728.8243063362108" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="728.8552145874453" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="728.8243063362108" y="0" width="103.00941874408983" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="728.8552145874453" y="0" width="102.99276473890201" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="831.8337250803006" y="0" width="61.54334937835771" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="831.8479793263473" y="0" width="61.5333993827911" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="893.3770744586583" y="0" width="21.86007583117409" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="893.3813787091383" y="0" width="21.85654161245179" height="8" fill="#563d7c"/>
             
-              <rect mask="url(#languages-bar)" x="915.2371502898324" y="0" width="3.886923326688511" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="915.2379203215901" y="0" width="3.886294909966656" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="919.1240736165208" y="0" width="0.8759263834791011" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="919.1242152315568" y="0" width="0.8757847684431901" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1937,7 +1937,7 @@
                       Vue
                     </div>
                     <small>
-                       <div>22.6k lines</div>
+                       <div>22.7k lines</div>
                       
                        <div>79.22%</div>
                     </small>
@@ -1967,7 +1967,7 @@
                     <small>
                        <div>3.27k lines</div>
                       
-                       <div>11.2%</div>
+                       <div>11.19%</div>
                     </small>
                   </div>
                 
@@ -2240,7 +2240,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 16 May 2024, 20:16:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 17 May 2024, 00:11:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
