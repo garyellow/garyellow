@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.62mb of code in 2176 edited files across 628 commits over last 17 days
+              estimation from 1.62mb of code in 2175 edited files across 625 commits over last 17 days
             
           </small>
         
@@ -1912,17 +1912,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="728.8552145874453" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="728.6948777362106" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="728.8552145874453" y="0" width="102.99276473890201" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="728.6948777362106" y="0" width="103.07915755135856" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="831.8479793263473" y="0" width="61.5333993827911" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="831.7740352875692" y="0" width="61.58501508071093" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="893.3813787091383" y="0" width="21.85654161245179" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="893.3590503682801" y="0" width="21.874875406143612" height="8" fill="#563d7c"/>
             
-              <rect mask="url(#languages-bar)" x="915.2379203215901" y="0" width="3.886294909966656" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="915.2339257744237" y="0" width="3.88955482776922" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="919.1242152315568" y="0" width="0.8757847684431901" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="919.1234806021929" y="0" width="0.876519397807148" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -1937,9 +1937,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>22.7k lines</div>
+                       <div>22.6k lines</div>
                       
-                       <div>79.22%</div>
+                       <div>79.21%</div>
                     </small>
                   </div>
                 
@@ -1967,7 +1967,7 @@
                     <small>
                        <div>3.27k lines</div>
                       
-                       <div>11.19%</div>
+                       <div>11.2%</div>
                     </small>
                   </div>
                 
@@ -2240,7 +2240,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 17 May 2024, 16:12:23 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 17 May 2024, 20:16:14 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
