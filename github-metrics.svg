@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.51k added, 1 removed
+                    10.3k added, 46 removed
                   
                 </div>
             
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    280 views in last two weeks
+                    281 views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.42mb of code in 1746 edited files across 547 commits over last 37 days
+              estimation from 1.40mb of code in 1745 edited files across 549 commits over last 37 days
             
           </small>
         
@@ -1912,17 +1912,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="695.8057338298603" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="691.305772289333" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="695.8057338298603" y="0" width="113.39784222063757" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="691.305772289333" y="0" width="114.39724548491795" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="809.2035760504978" y="0" width="68.71510445553706" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="805.7030177742511" y="0" width="70.88612423244456" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="877.9186805060349" y="0" width="24.407469033092994" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="876.5891420066956" y="0" width="25.17861095880147" height="8" fill="#563d7c"/>
             
-              <rect mask="url(#languages-bar)" x="902.3261495391279" y="0" width="12.07009481551911" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="901.767752965497" y="0" width="12.451443498043435" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="914.3962443546469" y="0" width="5.603755645352983" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="914.2191964635405" y="0" width="5.780803536459522" height="8" fill="#f34b7d"/>
             
           </svg>
         
@@ -1937,9 +1937,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>18k lines</div>
+                       <div>17.2k lines</div>
                       
-                       <div>75.63%</div>
+                       <div>75.14%</div>
                     </small>
                   </div>
                 
@@ -1951,7 +1951,7 @@
                     <small>
                        <div>239 lines</div>
                       
-                       <div>1.31%</div>
+                       <div>1.35%</div>
                     </small>
                   </div>
                 
@@ -1965,9 +1965,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>2.88k lines</div>
+                       <div>2.80k lines</div>
                       
-                       <div>12.33%</div>
+                       <div>12.43%</div>
                     </small>
                   </div>
                 
@@ -1979,7 +1979,7 @@
                     <small>
                        <div>180 lines</div>
                       
-                       <div>0.61%</div>
+                       <div>0.63%</div>
                     </small>
                   </div>
                 
@@ -1995,7 +1995,7 @@
                     <small>
                        <div>1.60k lines</div>
                       
-                       <div>7.47%</div>
+                       <div>7.71%</div>
                     </small>
                   </div>
                 
@@ -2011,7 +2011,7 @@
                     <small>
                        <div>1.78k lines</div>
                       
-                       <div>2.65%</div>
+                       <div>2.74%</div>
                     </small>
                   </div>
                 
@@ -2184,7 +2184,7 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Replace Words</div>
+                <div class="title">Continuous Subarray Sum</div>
                 <div class="date">8 Jun 2024</div>
               </div>
             </div>
@@ -2192,8 +2192,8 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Hand of Straights</div>
-                <div class="date">7 Jun 2024</div>
+                <div class="title">Replace Words</div>
+                <div class="date">8 Jun 2024</div>
               </div>
             </div>
           
@@ -2240,7 +2240,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 8 Jun 2024, 12:12:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 8 Jun 2024, 16:11:18 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
