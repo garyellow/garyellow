@@ -1718,9 +1718,9 @@
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 218kb of code in 106 edited files across 126 commits over last 92 days
+              estimation from 218kb of code in 106 edited files across 126 commits over last 93 days
             
           </small>
         
@@ -2226,7 +2226,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 17 Aug 2024, 04:11:25 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 17 Aug 2024, 08:42:56 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
