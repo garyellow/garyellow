@@ -1704,7 +1704,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1718,15 +1718,15 @@
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 227kb of code in 109 edited files across 134 commits over last 89 days
+              estimation from 227kb of code in 109 edited files across 134 commits over last 90 days
             
           </small>
         
@@ -2088,8 +2088,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="92.55960772295434 329"/>
-                    <text x="60" y="50" dominant-baseline="central">918</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="92.66043518234754 329"/>
+                    <text x="60" y="50" dominant-baseline="central">919</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3263</text>
                   </svg>
                   <span class="title">All</span>
@@ -2118,8 +2118,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.76639344262296 329"/>
-                    <text x="60" y="50" dominant-baseline="central">153</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.21584699453553 329"/>
+                    <text x="60" y="50" dominant-baseline="central">154</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/732</text>
                   </svg>
                   <span class="title">Hard</span>
@@ -2139,7 +2139,7 @@
             
               <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x506</span></div>
             
-              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x207</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x208</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x191</span></div>
             
@@ -2147,7 +2147,7 @@
             
               <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x153</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x132</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x133</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x122</span></div>
             
@@ -2170,16 +2170,16 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Fraction Addition and Subtraction</div>
-                <div class="date">24 Aug 2024</div>
+                <div class="title">Find the Closest Palindrome</div>
+                <div class="date">25 Aug 2024</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Number Complement</div>
-                <div class="date">22 Aug 2024</div>
+                <div class="title">Fraction Addition and Subtraction</div>
+                <div class="date">24 Aug 2024</div>
               </div>
             </div>
           
@@ -2226,7 +2226,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 25 Aug 2024, 04:10:55 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 25 Aug 2024, 08:49:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
