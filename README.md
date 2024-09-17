@@ -9,11 +9,11 @@
 
 ---
 
-- 🌱 I’m major in [**CSIE**](http://www.csie.ntpu.edu.tw) at [**NTPU**](https://www.ntpu.edu.tw) in Taiwan !!
+- 🌱 I’m studying for a master's degree of [**CSIE**](https://www.csie.ncu.edu.tw) at [**NCU**](https://www.ncu.edu.tw/tw/index.html) in Taiwan !!
 
 - 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/garyellow?tab=repositories)
 
-- 📫 You can reach me at **gary20011110@gmail.com**
+- 📫 You can reach me at [**gary20011110@gmail.com**](mailto:gary20011110@gmail.com)
 
 ---
 
