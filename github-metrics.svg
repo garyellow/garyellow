@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    247 views in last two weeks
+                    249 views in last two weeks
                   
                 </div>
             
@@ -2074,8 +2074,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="94.73769996981588 329"/>
-                    <text x="60" y="50" dominant-baseline="central">954</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="94.8370057349834 329"/>
+                    <text x="60" y="50" dominant-baseline="central">955</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3313</text>
                   </svg>
                   <span class="title">All</span>
@@ -2094,8 +2094,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="105.5533756491633 329"/>
-                    <text x="60" y="50" dominant-baseline="central">556</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="105.74321984997114 329"/>
+                    <text x="60" y="50" dominant-baseline="central">557</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1733</text>
                   </svg>
                   <span class="title">Medium</span>
@@ -2125,7 +2125,7 @@
             
               <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x527</span></div>
             
-              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x221</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x222</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x202</span></div>
             
@@ -2137,7 +2137,7 @@
             
               <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x127</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x118</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x119</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x99</span></div>
             
@@ -2156,7 +2156,7 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Minimum Number of Swaps to Make the String Balanced</div>
+                <div class="title">Minimum Add to Make Parentheses Valid</div>
                 <div class="date">9 Oct 2024</div>
               </div>
             </div>
@@ -2164,8 +2164,8 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Minimum String Length After Removing Substrings</div>
-                <div class="date">7 Oct 2024</div>
+                <div class="title">Minimum Number of Swaps to Make the String Balanced</div>
+                <div class="date">9 Oct 2024</div>
               </div>
             </div>
           
@@ -2212,7 +2212,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 9 Oct 2024, 20:20:09 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 10 Oct 2024, 00:13:16 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
