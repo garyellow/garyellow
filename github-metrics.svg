@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    380 views in last two weeks
+                    383 views in last two weeks
                   
                 </div>
             
@@ -2074,8 +2074,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="94.90575127973503 329"/>
-                    <text x="60" y="50" dominant-baseline="central">958</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="95.00481782595604 329"/>
+                    <text x="60" y="50" dominant-baseline="central">959</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3321</text>
                   </svg>
                   <span class="title">All</span>
@@ -2104,8 +2104,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.28609271523179 329"/>
-                    <text x="60" y="50" dominant-baseline="central">159</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.72185430463576 329"/>
+                    <text x="60" y="50" dominant-baseline="central">160</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/755</text>
                   </svg>
                   <span class="title">Hard</span>
@@ -2123,21 +2123,21 @@
           </h2>
           <div class="topics">
             
-              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x530</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x531</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x222</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x203</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x204</span></div>
             
               <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x182</span></div>
             
-              <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x158</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x159</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x136</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x127</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x120</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x121</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x99</span></div>
             
@@ -2156,15 +2156,15 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Divide Intervals Into Minimum Number of Groups</div>
-                <div class="date">12 Oct 2024</div>
+                <div class="title">Smallest Range Covering Elements from K Lists</div>
+                <div class="date">13 Oct 2024</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">The Number of the Smallest Unoccupied Chair</div>
+                <div class="title">Divide Intervals Into Minimum Number of Groups</div>
                 <div class="date">12 Oct 2024</div>
               </div>
             </div>
@@ -2212,7 +2212,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 13 Oct 2024, 16:13:33 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 13 Oct 2024, 20:18:26 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
