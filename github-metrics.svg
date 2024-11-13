@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 730kb of code in 156 edited files across 195 commits over last 86 days
+              estimation from 732kb of code in 158 edited files across 199 commits over last 86 days
             
           </small>
         
@@ -1912,13 +1912,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="787.715107591913" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="785.1055638853994" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="787.715107591913" y="0" width="88.95050873644301" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="785.1055638853994" y="0" width="91.70361064959273" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="876.665616328356" y="0" width="40.09879956495665" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="876.809174534992" y="0" width="39.9659602058597" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="916.7644158933126" y="0" width="3.2355841066872673" height="8" fill="#C1F12E"/>
+              <rect mask="url(#languages-bar)" x="916.7751347408519" y="0" width="3.2248652591481948" height="8" fill="#C1F12E"/>
             
           </svg>
         
@@ -1935,7 +1935,7 @@
                     <small>
                        <div>2.75k lines</div>
                       
-                       <div>85.62%</div>
+                       <div>85.34%</div>
                     </small>
                   </div>
                 
@@ -1949,9 +1949,9 @@
                       C++
                     </div>
                     <small>
-                       <div>488 lines</div>
+                       <div>499 lines</div>
                       
-                       <div>9.67%</div>
+                       <div>9.97%</div>
                     </small>
                   </div>
                 
@@ -1967,7 +1967,7 @@
                     <small>
                        <div>104 lines</div>
                       
-                       <div>4.36%</div>
+                       <div>4.34%</div>
                     </small>
                   </div>
                 
@@ -2074,8 +2074,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="97.07070405727924 329"/>
-                    <text x="60" y="50" dominant-baseline="central">989</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="97.16885441527447 329"/>
+                    <text x="60" y="50" dominant-baseline="central">990</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3352</text>
                   </svg>
                   <span class="title">All</span>
@@ -2094,8 +2094,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="109.41642897889332 329"/>
-                    <text x="60" y="50" dominant-baseline="central">583</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="109.60410724472332 329"/>
+                    <text x="60" y="50" dominant-baseline="central">584</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1753</text>
                   </svg>
                   <span class="title">Medium</span>
@@ -2123,7 +2123,7 @@
           </h2>
           <div class="topics">
             
-              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x546</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x547</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x233</span></div>
             
@@ -2131,7 +2131,7 @@
             
               <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x187</span></div>
             
-              <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x164</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x165</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x138</span></div>
             
@@ -2156,15 +2156,15 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Most Beautiful Item for Each Query</div>
-                <div class="date">12 Nov 2024</div>
+                <div class="title">Count the Number of Fair Pairs</div>
+                <div class="date">13 Nov 2024</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Prime Subtraction Operation</div>
+                <div class="title">Most Beautiful Item for Each Query</div>
                 <div class="date">12 Nov 2024</div>
               </div>
             </div>
@@ -2212,7 +2212,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 13 Nov 2024, 12:13:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 13 Nov 2024, 16:15:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
