@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    990 added, 355 removed
+                    193 added, 1 removed
                   
                 </div>
             
@@ -2102,9 +2102,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="99.6969696969697 329"/>
-                    <text x="60" y="50" dominant-baseline="central">1030</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3399</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="99.76441176470588 329"/>
+                    <text x="60" y="50" dominant-baseline="central">1031</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3400</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -2122,9 +2122,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="113.25620767494357 329"/>
-                    <text x="60" y="50" dominant-baseline="central">610</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1772</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="113.37789058093628 329"/>
+                    <text x="60" y="50" dominant-baseline="central">611</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1773</text>
                   </svg>
                   <span class="title">Medium</span>
                 </div>
@@ -2151,13 +2151,13 @@
           </h2>
           <div class="topics">
             
-              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x576</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x577</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x239</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x216</span></div>
             
-              <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x189</span></div>
+              <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x190</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x171</span></div>
             
@@ -2184,15 +2184,15 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find Largest Value in Each Tree Row</div>
-                <div class="date">25 Dec 2024</div>
+                <div class="title">Target Sum</div>
+                <div class="date">26 Dec 2024</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find Minimum Diameter After Merging Two Trees</div>
+                <div class="title">Find Largest Value in Each Tree Row</div>
                 <div class="date">25 Dec 2024</div>
               </div>
             </div>
@@ -2240,7 +2240,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 26 Dec 2024, 16:14:47 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 26 Dec 2024, 20:20:30 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
