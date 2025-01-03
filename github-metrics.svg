@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    3.71k added, 2.79k removed
+                    2.62k added, 756 removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 1.10mb of code in 447 edited files across 257 commits over last 92 days
+              estimation from 982kb of code in 438 edited files across 255 commits over last 91 days
             
           </small>
         
@@ -1912,17 +1912,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="839.8684899682115" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="839.0410306679737" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="839.8684899682115" y="0" width="45.73354698527772" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="839.0410306679737" y="0" width="49.39991597815432" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="885.6020369534892" y="0" width="22.194081011424156" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="888.440946646128" y="0" width="18.78392382019325" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="907.7961179649134" y="0" width="9.336589969767212" height="8" fill="#ff5a03"/>
+              <rect mask="url(#languages-bar)" x="907.2248704663214" y="0" width="10.085086122391822" height="8" fill="#ff5a03"/>
             
-              <rect mask="url(#languages-bar)" x="917.1327079346806" y="0" width="1.65072055673963" height="8" fill="#C1F12E"/>
+              <rect mask="url(#languages-bar)" x="917.3099565887132" y="0" width="1.375941744853662" height="8" fill="#C1F12E"/>
             
-              <rect mask="url(#languages-bar)" x="918.7834284914203" y="0" width="1.216571508579785" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="918.6858983335669" y="0" width="1.3141016664332725" height="8" fill="#3178c6"/>
             
           </svg>
         
@@ -1937,9 +1937,9 @@
                       Python
                     </div>
                     <small>
-                       <div>5.21k lines</div>
+                       <div>4.79k lines</div>
                       
-                       <div>91.29%</div>
+                       <div>91.2%</div>
                     </small>
                   </div>
                 
@@ -1949,9 +1949,9 @@
                       Batchfile
                     </div>
                     <small>
-                       <div>19 lines</div>
+                       <div>15 lines</div>
                       
-                       <div>0.18%</div>
+                       <div>0.15%</div>
                     </small>
                   </div>
                 
@@ -1967,7 +1967,7 @@
                     <small>
                        <div>477 lines</div>
                       
-                       <div>4.97%</div>
+                       <div>5.37%</div>
                     </small>
                   </div>
                 
@@ -1979,7 +1979,7 @@
                     <small>
                        <div>21 lines</div>
                       
-                       <div>0.13%</div>
+                       <div>0.14%</div>
                     </small>
                   </div>
                 
@@ -1993,9 +1993,9 @@
                       Dockerfile
                     </div>
                     <small>
-                       <div>104 lines</div>
+                       <div>80 lines</div>
                       
-                       <div>2.41%</div>
+                       <div>2.04%</div>
                     </small>
                   </div>
                 
@@ -2011,7 +2011,7 @@
                     <small>
                        <div>70 lines</div>
                       
-                       <div>1.01%</div>
+                       <div>1.1%</div>
                     </small>
                   </div>
                 
@@ -2240,7 +2240,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 3 Jan 2025, 08:52:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 3 Jan 2025, 12:13:53 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
