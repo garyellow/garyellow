@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    2.79k added, 2.44k removed
+                    193 added, 1 removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 696kb of code in 449 edited files across 264 commits over last 93 days
+              estimation from 694kb of code in 447 edited files across 260 commits over last 92 days
             
           </small>
         
@@ -1912,15 +1912,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="835.2807225820784" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="840.0631201167444" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="835.2807225820784" y="0" width="64.01849499093996" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="840.0631201167444" y="0" width="59.11757518206384" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="899.2992175730184" y="0" width="12.499670228202085" height="8" fill="#ff5a03"/>
+              <rect mask="url(#languages-bar)" x="899.1806952988081" y="0" width="12.571237056535795" height="8" fill="#ff5a03"/>
             
-              <rect mask="url(#languages-bar)" x="911.7988878012204" y="0" width="6.5723866452835695" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="911.7519323553439" y="0" width="6.610016827376255" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="918.371274446504" y="0" width="1.6287255534959282" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="918.3619491827203" y="0" width="1.6380508172798303" height="8" fill="#3178c6"/>
             
           </svg>
         
@@ -1937,7 +1937,7 @@
                     <small>
                        <div>3.64k lines</div>
                       
-                       <div>90.79%</div>
+                       <div>91.31%</div>
                     </small>
                   </div>
                 
@@ -1963,9 +1963,9 @@
                       C++
                     </div>
                     <small>
-                       <div>495 lines</div>
+                       <div>462 lines</div>
                       
-                       <div>6.96%</div>
+                       <div>6.43%</div>
                     </small>
                   </div>
                 
@@ -1981,7 +1981,7 @@
                     <small>
                        <div>70 lines</div>
                       
-                       <div>1.36%</div>
+                       <div>1.37%</div>
                     </small>
                   </div>
                 
@@ -1997,7 +1997,7 @@
                     <small>
                        <div>22 lines</div>
                       
-                       <div>0.71%</div>
+                       <div>0.72%</div>
                     </small>
                   </div>
                 
@@ -2226,7 +2226,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 23 Jan 2025, 12:13:42 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 23 Jan 2025, 16:14:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
