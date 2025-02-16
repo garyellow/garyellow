@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    5.72k added, 2.47k removed
+                    3.42k added, 379 removed
                   
                 </div>
             
@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    21 views in last two weeks
+                    22 views in last two weeks
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 133kb of code in 102 edited files across 80 commits over last 20 days
+              estimation from 200kb of code in 126 edited files across 87 commits over last 20 days
             
           </small>
         
@@ -1912,13 +1912,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="890.4723637789102" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="904.6709572384319" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="890.4723637789102" y="0" width="23.892591140729127" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="904.6709572384319" y="0" width="12.403652921574114" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="914.3649549196394" y="0" width="3.5613484907879265" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="917.074610160006" y="0" width="1.8488463788761416" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="917.9263034104273" y="0" width="2.073696589572717" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="918.9234565388822" y="0" width="1.0765434611177533" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1933,9 +1933,9 @@
                       Python
                     </div>
                     <small>
-                       <div>630 lines</div>
+                       <div>1.20k lines</div>
                       
-                       <div>96.79%</div>
+                       <div>98.33%</div>
                     </small>
                   </div>
                 
@@ -1951,7 +1951,7 @@
                     <small>
                        <div>33 lines</div>
                       
-                       <div>2.6%</div>
+                       <div>1.35%</div>
                     </small>
                   </div>
                 
@@ -1967,7 +1967,7 @@
                     <small>
                        <div>4 lines</div>
                       
-                       <div>0.39%</div>
+                       <div>0.2%</div>
                     </small>
                   </div>
                 
@@ -1983,7 +1983,7 @@
                     <small>
                        <div>1 line</div>
                       
-                       <div>0.23%</div>
+                       <div>0.12%</div>
                     </small>
                   </div>
                 
@@ -2074,8 +2074,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="102.24775946805435 329"/>
-                    <text x="60" y="50" dominant-baseline="central">1075</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="102.34287366290835 329"/>
+                    <text x="60" y="50" dominant-baseline="central">1076</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3459</text>
                   </svg>
                   <span class="title">All</span>
@@ -2094,8 +2094,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="117.10789766407119 329"/>
-                    <text x="60" y="50" dominant-baseline="central">640</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="117.29087875417129 329"/>
+                    <text x="60" y="50" dominant-baseline="central">641</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1798</text>
                   </svg>
                   <span class="title">Medium</span>
@@ -2123,7 +2123,7 @@
           </h2>
           <div class="topics">
             
-              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x610</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x611</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x252</span></div>
             
@@ -2156,15 +2156,15 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find the Punishment Number of an Integer</div>
-                <div class="date">15 Feb 2025</div>
+                <div class="title">Construct the Lexicographically Largest Valid Sequence</div>
+                <div class="date">17 Feb 2025</div>
               </div>
             </div>
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Product of the Last K Numbers</div>
+                <div class="title">Find the Punishment Number of an Integer</div>
                 <div class="date">15 Feb 2025</div>
               </div>
             </div>
@@ -2212,7 +2212,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 17 Feb 2025, 00:11:56 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 17 Feb 2025, 04:11:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
