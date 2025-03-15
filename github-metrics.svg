@@ -1718,9 +1718,9 @@
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2170,7 +2170,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 15 Mar 2025, 04:12:37 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 15 Mar 2025, 08:55:46 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
