@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 175kb of code in 41 edited files across 23 commits over last 17 days
+              estimation from 175kb of code in 42 edited files across 25 commits over last 17 days
             
           </small>
         
@@ -1912,9 +1912,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="913.2169453074913" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="913.2577605117709" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="913.2169453074913" y="0" width="6.783054692508754" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="913.2577605117709" y="0" width="6.742239488229022" height="8" fill="#f34b7d"/>
             
           </svg>
         
@@ -1929,9 +1929,9 @@
                       Python
                     </div>
                     <small>
-                       <div>2.50k lines</div>
+                       <div>2.52k lines</div>
                       
-                       <div>99.26%</div>
+                       <div>99.27%</div>
                     </small>
                   </div>
                 
@@ -1947,7 +1947,7 @@
                     <small>
                        <div>28 lines</div>
                       
-                       <div>0.74%</div>
+                       <div>0.73%</div>
                     </small>
                   </div>
                 
@@ -2184,7 +2184,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 20 May 2025, 20:25:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 21 May 2025, 00:15:37 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
