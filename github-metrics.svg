@@ -2046,8 +2046,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="106.97546012269939 329"/>
-                    <text x="60" y="50" dominant-baseline="central">1166</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="107.06720580033463 329"/>
+                    <text x="60" y="50" dominant-baseline="central">1167</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3586</text>
                   </svg>
                   <span class="title">All</span>
@@ -2066,8 +2066,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="121.98280494357871 329"/>
-                    <text x="60" y="50" dominant-baseline="central">690</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="122.15959161741 329"/>
+                    <text x="60" y="50" dominant-baseline="central">691</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1861</text>
                   </svg>
                   <span class="title">Medium</span>
@@ -2097,15 +2097,15 @@
             
               <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x666</span></div>
             
-              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x272</span></div>
+              <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x273</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x251</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x252</span></div>
             
               <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x206</span></div>
             
               <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x186</span></div>
             
-              <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x164</span></div>
+              <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x165</span></div>
             
               <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x150</span></div>
             
@@ -2184,7 +2184,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 20 Jun 2025, 16:17:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 20 Jun 2025, 20:24:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
