@@ -1722,15 +1722,15 @@
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 295kb of code in 61 edited files across 36 commits over last 24 days
+              estimation from 299kb of code in 63 edited files across 40 commits over last 25 days
             
           </small>
         
@@ -1912,9 +1912,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="915.4851639601773" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="910.1607987161951" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="915.4851639601773" y="0" width="4.514836039822769" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="910.1607987161951" y="0" width="9.839201283804888" height="8" fill="#f34b7d"/>
             
           </svg>
         
@@ -1931,7 +1931,7 @@
                     <small>
                        <div>3.26k lines</div>
                       
-                       <div>99.51%</div>
+                       <div>98.93%</div>
                     </small>
                   </div>
                 
@@ -1945,9 +1945,9 @@
                       C++
                     </div>
                     <small>
-                       <div>24 lines</div>
+                       <div>46 lines</div>
                       
-                       <div>0.49%</div>
+                       <div>1.07%</div>
                     </small>
                   </div>
                 
@@ -2184,7 +2184,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 11 Jul 2025, 04:14:27 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 11 Jul 2025, 09:03:31 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
