@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 287kb of code in 78 edited files across 26 commits over last 19 days
+              estimation from 288kb of code in 79 edited files across 30 commits over last 20 days
             
           </small>
         
@@ -2142,7 +2142,7 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find the Minimum Area to Cover All Ones II</div>
+                <div class="title">Longest Subarray of 1's After Deleting One Element</div>
                 <div class="date">24 Aug 2025</div>
               </div>
             </div>
@@ -2150,8 +2150,8 @@
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/></svg>
               <div class="infos">
-                <div class="title">Find the Minimum Area to Cover All Ones I</div>
-                <div class="date">23 Aug 2025</div>
+                <div class="title">Find the Minimum Area to Cover All Ones II</div>
+                <div class="date">24 Aug 2025</div>
               </div>
             </div>
           
@@ -2198,7 +2198,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 24 Aug 2025, 20:21:59 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 25 Aug 2025, 00:13:42 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
