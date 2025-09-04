@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    14.8k added, 5.20k removed
+                    263 added, 62 removed
                   
                 </div>
             
@@ -1901,7 +1901,7 @@
         
           <small>
             
-              estimation from 350kb of code in 85 edited files across 36 commits over last 30 days
+              estimation from 269kb of code in 52 edited files across 30 commits over last 30 days
             
           </small>
         
@@ -1912,15 +1912,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="626.6374170862304" height="8" fill="#00B4AB"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="904.6725931224654" height="8" fill="#00B4AB"/>
             
-              <rect mask="url(#languages-bar)" x="626.6374170862304" y="0" width="290.39223207863824" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="904.6725931224654" y="0" width="11.039129607088672" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="917.0296491648686" y="0" width="2.0770398785263327" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="915.711722729554" y="0" width="2.9986097250024515" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="919.1066890433949" y="0" width="0.7315591784544074" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="918.7103324545565" y="0" width="1.0561474960628103" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="919.8382482218493" y="0" width="0.16175177815072325" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="919.7664799506192" y="0" width="0.2335200493807219" height="8" fill="#89e051"/>
             
           </svg>
         
@@ -1937,7 +1937,7 @@
                     <small>
                        <div>5.67k lines</div>
                       
-                       <div>68.11%</div>
+                       <div>98.33%</div>
                     </small>
                   </div>
                 
@@ -1949,7 +1949,7 @@
                     <small>
                        <div>2 lines</div>
                       
-                       <div>0.02%</div>
+                       <div>0.03%</div>
                     </small>
                   </div>
                 
@@ -1963,9 +1963,9 @@
                       Python
                     </div>
                     <small>
-                       <div>2.85k lines</div>
+                       <div>83 lines</div>
                       
-                       <div>31.56%</div>
+                       <div>1.2%</div>
                     </small>
                   </div>
                 
@@ -1981,7 +1981,7 @@
                     <small>
                        <div>26 lines</div>
                       
-                       <div>0.23%</div>
+                       <div>0.33%</div>
                     </small>
                   </div>
                 
@@ -1997,7 +1997,7 @@
                     <small>
                        <div>6 lines</div>
                       
-                       <div>0.08%</div>
+                       <div>0.11%</div>
                     </small>
                   </div>
                 
@@ -2226,7 +2226,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 4 Sept 2025, 16:16:24 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 4 Sept 2025, 20:24:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
