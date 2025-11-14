@@ -18,8 +18,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: data
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
       
-      - name: generate github metric
+      - name: generate GitHub metric
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -47,7 +53,7 @@ jobs:
           plugin_leetcode_sections: solved, skills, recent
           output_action: none
         
-      - name: generate snake of github contributions
+      - name: generate snake of GitHub contributions
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -59,7 +65,7 @@ jobs:
       - name: move file
         run: sudo mv /metrics_renders/* ./
             
-      - name: push svg to the output branch
+      - name: push SVG to the output branch
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
