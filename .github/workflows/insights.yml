@@ -20,7 +20,7 @@ jobs:
           ref: data
       
       - name: generate GitHub metric
-        uses: lowlighter/metrics@latest
+        uses: garyellow/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
